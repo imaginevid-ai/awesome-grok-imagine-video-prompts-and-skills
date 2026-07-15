@@ -64,6 +64,11 @@
       "title": "Cambio de estilo ciberpunk atómico de un clip existente",
       "description": "Una instrucción de edición deliberadamente mínima que demuestra que un vídeo de origen puede conservar su movimiento subyacente mientras cambia su tratamiento visual a un estilo ciberpunk futurista.",
       "content": "Cambia el estilo a ciberpunk futurista"
+    },
+    "14": {
+      "title": "Esfera de agua de flujo inverso",
+      "description": "Un prompt de vídeo conciso que desafía la física: el agua asciende desde un vaso y forma una esfera flotante bajo una luz diurna suave.",
+      "content": "Un vaso de agua sobre una mesa; de repente, el agua fluye hacia arriba, sale del vaso y forma una esfera flotante, fotorrealista, con luz diurna suave"
     }
   },
   "de": {
@@ -131,6 +136,11 @@
       "title": "Radikales Cyberpunk-Restyling eines vorhandenen Clips",
       "description": "Eine bewusst minimale Bearbeitungsanweisung, die zeigt, dass ein Ausgangsvideo seine zugrunde liegende Bewegung behalten kann, während sich die visuelle Gestaltung in einen futuristischen Cyberpunk-Stil verändert.",
       "content": "Ändere den Stil in futuristisches Cyberpunk."
+    },
+    "14": {
+      "title": "Wasserkugel mit umgekehrter Strömung",
+      "description": "Ein knapper, physikwidriger Videoprompt, bei dem Wasser aus einem Glas aufsteigt und sich bei weichem Tageslicht zu einer schwebenden Kugel sammelt.",
+      "content": "Ein Glas Wasser auf einem Tisch; plötzlich fließt das Wasser nach oben aus dem Glas und formt eine schwebende Kugel, fotorealistisch, weiches Tageslicht"
     }
   },
   "fr": {
@@ -198,6 +208,11 @@
       "title": "Restylage cyberpunk atomique d'un clip existant",
       "description": "Une instruction de montage volontairement minimale qui montre qu'une vidéo source peut conserver son mouvement sous-jacent tandis que son traitement visuel adopte un style cyberpunk futuriste.",
       "content": "Changez le style pour un Cyberpunk futuriste"
+    },
+    "14": {
+      "title": "Sphère d’eau à écoulement inversé",
+      "description": "Un prompt vidéo concis qui défie les lois de la physique : l’eau monte hors d’un verre et se rassemble en une sphère flottante sous une douce lumière du jour.",
+      "content": "Un verre d’eau sur une table ; soudain, l’eau remonte hors du verre et forme une sphère flottante, photoréaliste, douce lumière du jour"
     }
   },
   "ja": {
@@ -265,6 +280,11 @@
       "title": "既存クリップを原子力級サイバーパンクにリスタイル",
       "description": "元動画の基礎となる動きを保ったまま、映像処理だけを未来的なサイバーパンクスタイルへ変えられることを示す、意図的に最小限の編集指示。",
       "content": "スタイルを未来的なCyberpunkに変更する"
+    },
+    "14": {
+      "title": "逆流して浮かぶ水の球体",
+      "description": "コップの水が上向きに流れ出し、柔らかな昼光の中で宙に浮く球体へ集まる、物理法則を超えた簡潔な動画プロンプトです。",
+      "content": "テーブルの上に水の入ったコップ。突然、水がコップから上向きに流れ出し、宙に浮く球体を形作る。フォトリアル、柔らかな昼光"
     }
   },
   "ko": {
@@ -332,6 +352,11 @@
       "title": "기존 클립의 원자적 사이버펑크 스타일 변경",
       "description": "원본 비디오의 기본 움직임은 유지하면서 시각적 처리를 미래적인 사이버펑크 스타일로 바꿀 수 있음을 보여 주는 의도적으로 간결한 편집 지시입니다.",
       "content": "스타일을 미래적인 Cyberpunk로 변경하세요."
+    },
+    "14": {
+      "title": "역류해 떠오르는 물 구체",
+      "description": "유리잔의 물이 위로 솟아나 부드러운 낮빛 아래 공중에 떠 있는 구체로 모이는, 물리 법칙을 거스르는 간결한 동영상 프롬프트입니다.",
+      "content": "테이블 위에 물이 든 유리잔이 있다. 갑자기 물이 잔 밖으로 위로 흐르며 공중에 떠 있는 구체를 만든다. 사실적 표현, 부드러운 낮빛"
     }
   },
   "zh": {
@@ -399,6 +424,11 @@
       "title": "现有片段的原子级赛博朋克重塑",
       "description": "极简编辑指令，展示源视频可以保留底层运动，同时改变视觉处理为未来感赛博朋克风格。",
       "content": "将风格改为未来感 Cyberpunk"
+    },
+    "14": {
+      "title": "逆流悬浮的水球",
+      "description": "一条简洁而反常规物理的视频提示词：水从玻璃杯中向上流出，在柔和日光下汇聚成悬浮球体。",
+      "content": "桌上放着一杯水，水突然从杯中向上流出，并形成一个悬浮的球体；照片级写实，柔和日光"
     }
   }
 }

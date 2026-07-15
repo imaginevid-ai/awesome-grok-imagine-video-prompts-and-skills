@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **13** |
+| 検証済みケース | **14** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年7月15日水曜日 13:39:34 UTC** |
+| 生成日時 | **2026年7月15日水曜日 14:24:17 UTC** |
 
 </div>
 
@@ -138,8 +138,12 @@ Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp
 
 </details>
 
+#### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg" height="420" alt="高速宇宙船ディテール・モンタージュとハードトランジション - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24)**
 </div>
 
 #### エビデンス
@@ -199,8 +203,12 @@ Fun playful background music.
 
 </details>
 
+#### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" height="420" alt="スローモーションのシリアル爆発と台詞・サウンドデザイン - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25)**
 </div>
 
 #### エビデンス
@@ -257,8 +265,12 @@ Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, 
 
 </details>
 
+#### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg" height="420" alt="同期したスラップスティック音声のワンショット人形格闘 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27)**
 </div>
 
 #### エビデンス
@@ -324,8 +336,12 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 </details>
 
+#### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg" height="420" alt="5つのタイムドCMショットで見せる高級香水 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24)**
 </div>
 
 #### エビデンス
@@ -380,8 +396,12 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg" height="420" alt="小さなカメラマンの机上ランとタイムド・ビート - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25)**
 </div>
 
 ##### エビデンス
@@ -431,8 +451,12 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" height="420" alt="間と微表情で進む微妙な口論 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25)**
 </div>
 
 ##### エビデンス
@@ -491,8 +515,12 @@ On-screen text sequence:
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg" height="420" alt="自然な緑茶の注ぎと商品エンドカード - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25)**
 </div>
 
 ##### エビデンス
@@ -550,8 +578,12 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg" height="420" alt="松明に照らされたファンタジーのキスと実写フィルムの連続性 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27)**
 </div>
 
 ##### エビデンス
@@ -615,8 +647,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg" height="420" alt="火、布、音声の物理を伴う高速ドラゴン飛行 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28)**
 </div>
 
 ##### エビデンス
@@ -750,8 +786,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg" height="420" alt="固定されたエディトリアルグリッドと独立した微細運動 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21)**
 </div>
 
 ##### エビデンス
@@ -767,7 +807,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### スタイライズドモーションと視覚効果 (2)
+### スタイライズドモーションと視覚効果 (3)
 
 変形、シミュレーション、シュールな物理、グラフィックモーション、独自のメディア処理によるエフェクトとアニメーションのパターン。
 
@@ -796,8 +836,12 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg" height="420" alt="月明かりの下で寄り添うドラゴン、抑制されたスローモーション - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23)**
 </div>
 
 ##### エビデンス
@@ -836,8 +880,12 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 </details>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg" height="420" alt="重い衝撃物理を伴う連続武術トラバーサル - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25)**
 </div>
 
 ##### エビデンス
@@ -845,6 +893,50 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 - **クリエイター:** [⭕Kisalay](https://x.com/Kisalay_)
 - **正規の出典:** [正規の出典](https://x.com/Kisalay_/status/2067298200520896673)
 - **公開日:** 2026年6月17日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
+<a id="prompt-14"></a>
+
+#### #9: 逆流して浮かぶ水の球体
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+コップの水が上向きに流れ出し、柔らかな昼光の中で宙に浮く球体へ集まる、物理法則を超えた簡潔な動画プロンプトです。
+
+##### ローカライズ済みプロンプト
+
+```
+テーブルの上に水の入ったコップ。突然、水がコップから上向きに流れ出し、宙に浮く球体を形作る。フォトリアル、柔らかな昼光
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" height="420" alt="逆流して浮かぶ水の球体 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [atmen](https://x.com/atmen189)
+- **正規の出典:** [正規の出典](https://x.com/atmen189/status/2077238726120669192)
+- **公開日:** 2026年7月15日
 - **プロンプト言語:** en
 
 **[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
@@ -859,7 +951,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-13"></a>
 
-#### #9: 既存クリップを原子力級サイバーパンクにリスタイル
+#### #10: 既存クリップを原子力級サイバーパンクにリスタイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -891,8 +983,12 @@ Change the style to futuristic Cyberpunk
 </tr>
 </table>
 
+##### 動画
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg" height="420" alt="既存クリップを原子力級サイバーパンクにリスタイル - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21)**
 </div>
 
 ##### エビデンス
@@ -933,10 +1029,10 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (12)</summary>
+<summary>Community creators we thank (13)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme)<br>
-[Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
+[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -956,6 +1052,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-15T13:39:34.070Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-15T14:24:17.919Z</sub>
 
 </div>

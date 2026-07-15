@@ -1,6 +1,6 @@
 /**
  * [INPUT]: 依赖 prompt-repository 的视频提示词契约、十四语言 i18n 文案与 workflow-copy 分类说明
- * [OUTPUT]: 对外提供多语言 README、媒体表格、模型介绍、分类分组和 CTA 的 Markdown 生成能力
+ * [OUTPUT]: 对外提供多语言 README、可点击视频案例、媒体表格、模型介绍、分类分组和 CTA 的 Markdown 生成能力
  * [POS]: scripts/utils 的核心展示层，把 Grok Imagine Video 结构化数据渲染为 GitHub 原生页面
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
@@ -246,23 +246,23 @@ function generatePromptSection(
     md += generatePromptVariants(prompt.promptVariants, locale);
   }
 
-  if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
-    if (prompt.video?.url) {
-      if (prompt.sourceMedia.length > 1) {
-        md += `${detailHeading} ${t("sourceAndResultFrames", locale)}\n\n`;
-        md += generateMediaTable(prompt.sourceMedia, prompt.title);
-      }
-      md += generateAnimationPreview(
-        prompt.animationPreview || prompt.video.thumbnail || "",
-        prompt.title,
-        prompt.video.url
-      );
-    } else {
-      md += `${detailHeading} ${t("generatedImages", locale)}\n\n`;
+  if (prompt.video?.url) {
+    if (prompt.sourceMedia.length > 1) {
+      md += `${detailHeading} ${t("sourceAndResultFrames", locale)}\n\n`;
       md += generateMediaTable(prompt.sourceMedia, prompt.title);
-      if (prompt.animationPreview) {
-        md += generateAnimationPreview(prompt.animationPreview, prompt.title);
-      }
+    }
+    md += `${detailHeading} ${videoPreviewCopy(locale).heading}\n\n`;
+    md += generateAnimationPreview(
+      prompt.animationPreview || prompt.video.thumbnail || "",
+      prompt.title,
+      prompt.video.url,
+      locale
+    );
+  } else if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
+    md += `${detailHeading} ${t("generatedImages", locale)}\n\n`;
+    md += generateMediaTable(prompt.sourceMedia, prompt.title);
+    if (prompt.animationPreview) {
+      md += generateAnimationPreview(prompt.animationPreview, prompt.title);
     }
   } else if (prompt.animationPreview) {
     md += generateAnimationPreview(prompt.animationPreview, prompt.title);
@@ -472,14 +472,43 @@ export function generateMediaTable(images: string[], title: string): string {
 export function generateAnimationPreview(
   url: string,
   title: string,
-  sourceUrl?: string
+  sourceUrl?: string,
+  locale = "en"
 ): string {
+  const copy = videoPreviewCopy(locale);
   if (!url && sourceUrl) {
-    return `<div align="center">\n<a href="${escapeAttribute(sourceUrl)}"><strong>Play source video</strong></a>\n</div>\n\n`;
+    return `<div align="center">\n\n**[▶ ${copy.watchVideo} →](${escapeAttribute(sourceUrl)})**\n\n</div>\n\n`;
   }
   const image = `<img src="${escapeAttribute(url)}" height="420" alt="${escapeAttribute(title)} - Motion preview">`;
-  const content = sourceUrl ? `<a href="${escapeAttribute(sourceUrl)}">${image}</a>` : image;
-  return `<div align="center">\n${content}\n</div>\n\n`;
+  if (!sourceUrl) {
+    return `<div align="center">\n${image}\n</div>\n\n`;
+  }
+  return `<div align="center">\n<a href="${escapeAttribute(sourceUrl)}">${image}</a>\n\n*${copy.clickPreview}* · **[▶ ${copy.watchVideo} →](${escapeAttribute(sourceUrl)})**\n</div>\n\n`;
+}
+
+function videoPreviewCopy(locale: string): {
+  heading: string;
+  clickPreview: string;
+  watchVideo: string;
+} {
+  const copy: Record<string, [string, string, string]> = {
+    en: ["Video", "Click the preview to open the video", "Watch video"],
+    es: ["Video", "Haz clic en la vista previa para abrir el video", "Ver video"],
+    pt: ["Vídeo", "Clique na prévia para abrir o vídeo", "Ver vídeo"],
+    it: ["Video", "Fai clic sull'anteprima per aprire il video", "Guarda il video"],
+    de: ["Video", "Klicke auf die Vorschau, um das Video zu öffnen", "Video ansehen"],
+    fr: ["Vidéo", "Cliquez sur l'aperçu pour ouvrir la vidéo", "Voir la vidéo"],
+    ar: ["الفيديو", "انقر على المعاينة لفتح الفيديو", "مشاهدة الفيديو"],
+    ja: ["動画", "プレビューをクリックして動画を開く", "動画を見る"],
+    ko: ["동영상", "미리보기를 클릭하여 동영상을 여세요", "동영상 보기"],
+    zh: ["视频", "点击预览图打开视频", "观看视频"],
+    nl: ["Video", "Klik op de voorvertoning om de video te openen", "Video bekijken"],
+    ru: ["Видео", "Нажмите на превью, чтобы открыть видео", "Смотреть видео"],
+    tr: ["Video", "Videoyu açmak için önizlemeye tıklayın", "Videoyu izle"],
+    pl: ["Wideo", "Kliknij podgląd, aby otworzyć wideo", "Obejrzyj wideo"],
+  };
+  const [heading, clickPreview, watchVideo] = copy[locale] || copy.en;
+  return { heading, clickPreview, watchVideo };
 }
 
 function generatePromptVariants(

@@ -64,6 +64,11 @@
       "title": "Restyling cyberpunk elementar de um clip existente",
       "description": "Uma instrução de edição deliberadamente mínima que demonstra que um vídeo de origem pode manter o seu movimento subjacente enquanto o tratamento visual muda para um estilo cyberpunk futurista.",
       "content": "Mude o estilo para Cyberpunk futurista"
+    },
+    "14": {
+      "title": "Esfera de água em fluxo inverso",
+      "description": "Um prompt de vídeo conciso que desafia a física: a água sobe de um copo e reúne-se numa esfera flutuante sob luz natural suave.",
+      "content": "Um copo de água sobre uma mesa; de repente, a água sobe para fora do copo e forma uma esfera flutuante, fotorrealista, luz natural suave"
     }
   },
   "it": {
@@ -131,6 +136,11 @@
       "title": "Restyling cyberpunk atomico di una clip esistente",
       "description": "Un'istruzione di editing volutamente minimale che dimostra come un video sorgente possa conservare il movimento sottostante mentre il trattamento visivo cambia in uno stile cyberpunk futuristico.",
       "content": "Cambia lo stile in Cyberpunk futuristico"
+    },
+    "14": {
+      "title": "Sfera d’acqua a flusso inverso",
+      "description": "Un prompt video conciso che sfida la fisica: l’acqua sale da un bicchiere e si raccoglie in una sfera sospesa sotto una morbida luce diurna.",
+      "content": "Un bicchiere d’acqua su un tavolo; all’improvviso l’acqua scorre verso l’alto fuori dal bicchiere e forma una sfera sospesa, fotorealistico, luce diurna morbida"
     }
   },
   "ar": {
@@ -198,6 +208,11 @@
       "title": "إعادة تصميم سيبرانية ذرية لمقطع موجود",
       "description": "تعليمة تحرير متعمدة الحد الأدنى توضح أن الفيديو المصدر يمكنه الاحتفاظ بحركته الأساسية بينما يتغير المعالجة البصرية إلى أسلوب سيبراني مستقبلي.",
       "content": "غيّر الأسلوب إلى Cyberpunk مستقبلي"
+    },
+    "14": {
+      "title": "كرة ماء بتدفق عكسي",
+      "description": "موجّه فيديو موجز يتحدى قوانين الفيزياء، إذ يرتفع الماء من الكأس ويتجمع في كرة عائمة تحت ضوء نهاري ناعم.",
+      "content": "كأس ماء على طاولة، وفجأة يتدفق الماء إلى أعلى خارج الكأس ويكوّن كرة عائمة، واقعية فوتوغرافية، ضوء نهاري ناعم"
     }
   },
   "nl": {
@@ -265,6 +280,11 @@
       "title": "Atomische cyberpunk-restyling van een bestaande clip",
       "description": "Een bewust minimale montage-instructie die laat zien dat een bronvideo zijn onderliggende beweging kan behouden terwijl de visuele behandeling verandert naar een futuristische cyberpunkstijl.",
       "content": "Verander de stijl naar futuristische Cyberpunk"
+    },
+    "14": {
+      "title": "Waterbol met omgekeerde stroming",
+      "description": "Een beknopte videoprompt die de natuurkunde tart: water stijgt uit een glas en vormt bij zacht daglicht een zwevende bol.",
+      "content": "Een glas water op een tafel; plotseling stroomt het water omhoog uit het glas en vormt het een zwevende bol, fotorealistisch, zacht daglicht"
     }
   },
   "ru": {
@@ -332,6 +352,11 @@
       "title": "Атомный киберпанк-рестайлинг существующего клипа",
       "description": "Намеренно минимальная инструкция монтажа: исходное движение видео сохраняется, а визуальная обработка меняется на футуристический киберпанк.",
       "content": "Измените стиль на футуристический Cyberpunk"
+    },
+    "14": {
+      "title": "Водяная сфера с обратным потоком",
+      "description": "Краткий видеопромпт, нарушающий законы физики: вода поднимается из стакана и собирается в парящую сферу при мягком дневном свете.",
+      "content": "Стакан воды на столе; внезапно вода течет вверх из стакана и образует парящую сферу, фотореализм, мягкий дневной свет"
     }
   },
   "tr": {
@@ -399,6 +424,11 @@
       "title": "Mevcut klibin atomik cyberpunk yeniden stillendirmesi",
       "description": "Kaynak videonun temel hareketini korurken görsel işlemi fütüristik bir cyberpunk stiline değiştirebileceğini gösteren bilinçli olarak minimal düzenleme talimatı.",
       "content": "Stili fütüristik Cyberpunk olarak değiştir"
+    },
+    "14": {
+      "title": "Ters akışlı su küresi",
+      "description": "Suyun bardaktan yukarı yükselip yumuşak gün ışığında havada asılı bir kürede toplandığı, fiziğe meydan okuyan kısa bir video istemi.",
+      "content": "Masanın üzerinde bir bardak su; su aniden bardaktan yukarı doğru akarak havada asılı bir küre oluşturur, fotogerçekçi, yumuşak gün ışığı"
     }
   },
   "pl": {
@@ -466,6 +496,11 @@
       "title": "Atomowy cyberpunkowy restyling istniejącego klipu",
       "description": "Celowo minimalna instrukcja edycji pokazująca, że wideo źródłowe może zachować podstawowy ruch, podczas gdy oprawa wizualna zmienia się w futurystyczny cyberpunk.",
       "content": "Zmień styl na futurystyczny Cyberpunk"
+    },
+    "14": {
+      "title": "Kula wody płynącej wstecz",
+      "description": "Zwięzły prompt wideo łamiący prawa fizyki: woda unosi się ze szklanki i zbiera w lewitującą kulę w miękkim świetle dziennym.",
+      "content": "Szklanka wody na stole; woda nagle wypływa ze szklanki ku górze i tworzy lewitującą kulę, fotorealizm, miękkie światło dzienne"
     }
   }
 }

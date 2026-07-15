@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **13** |
+| Doğrulanmış örnekler | **14** |
 | Editör seçimi | **4** |
-| Oluşturulma | **15 Temmuz 2026 Çarşamba 13:39:34 UTC** |
+| Oluşturulma | **15 Temmuz 2026 Çarşamba 14:24:17 UTC** |
 
 </div>
 
@@ -138,8 +138,12 @@ Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg" height="420" alt="Sert geçişli hızlı uzay aracı detay montajı - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24)**
 </div>
 
 #### Kanıt
@@ -199,8 +203,12 @@ Fun playful background music.
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" height="420" alt="Diyalog ve ses tasarımıyla ağır çekimde mısır gevreği patlaması - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25)**
 </div>
 
 #### Kanıt
@@ -257,8 +265,12 @@ Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, 
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg" height="420" alt="Senkron slapstick sesiyle tek çekimde kukla dövüşü - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27)**
 </div>
 
 #### Kanıt
@@ -328,8 +340,12 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg" height="420" alt="Beş zamanlanmış reklam çekiminde lüks parfüm açılımı - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24)**
 </div>
 
 #### Kanıt
@@ -384,8 +400,12 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg" height="420" alt="Zamanlanmış hikâye vuruşlarıyla masada koşan minik kameraman - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25)**
 </div>
 
 ##### Kanıt
@@ -435,8 +455,12 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" height="420" alt="Duraklamalar ve mikro ifadelerle taşınan ince tartışma - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25)**
 </div>
 
 ##### Kanıt
@@ -495,8 +519,12 @@ On-screen text sequence:
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg" height="420" alt="Ürün son kartıyla doğal yeşil çay dökümü - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25)**
 </div>
 
 ##### Kanıt
@@ -554,8 +582,12 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg" height="420" alt="Pratik film sürekliliğiyle meşale ışığında fantastik öpücük - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27)**
 </div>
 
 ##### Kanıt
@@ -619,8 +651,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg" height="420" alt="Ateş, kumaş ve ses fiziğiyle yüksek hızlı ejderha uçuşu - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28)**
 </div>
 
 ##### Kanıt
@@ -737,8 +773,12 @@ Sekiz panelli yerleşimi ve kamerayı dondururken kontrollü nefes, göz kırpma
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg" height="420" alt="Bağımsız mikro hareketli sabit editoryal grid - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21)**
 </div>
 
 ##### Kanıt
@@ -754,7 +794,7 @@ Sekiz panelli yerleşimi ve kamerayı dondururken kontrollü nefes, göz kırpma
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Stilize hareket ve görsel efektler (2)
+### Stilize hareket ve görsel efektler (3)
 
 Dönüşüm, simülasyon, sürreal fizik, grafik hareket veya ayırt edici medya işlemiyle yönlendirilen efekt ve animasyon kalıpları.
 
@@ -783,8 +823,12 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg" height="420" alt="Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23)**
 </div>
 
 ##### Kanıt
@@ -823,8 +867,12 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg" height="420" alt="Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25)**
 </div>
 
 ##### Kanıt
@@ -832,6 +880,50 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 - **Üretici:** [⭕Kisalay](https://x.com/Kisalay_)
 - **Kanonik kaynak:** [Kanonik kaynak](https://x.com/Kisalay_/status/2067298200520896673)
 - **Yayımlandı:** 17 Haziran 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
+<a id="prompt-14"></a>
+
+#### #9: Ters akışlı su küresi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+Suyun bardaktan yukarı yükselip yumuşak gün ışığında havada asılı bir kürede toplandığı, fiziğe meydan okuyan kısa bir video istemi.
+
+##### Yerelleştirilmiş prompt
+
+```
+Masanın üzerinde bir bardak su; su aniden bardaktan yukarı doğru akarak havada asılı bir küre oluşturur, fotogerçekçi, yumuşak gün ışığı
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" height="420" alt="Ters akışlı su küresi - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [atmen](https://x.com/atmen189)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/atmen189/status/2077238726120669192)
+- **Yayımlandı:** 15 Temmuz 2026
 - **Prompt dili:** en
 
 **[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
@@ -846,7 +938,7 @@ Sürekliliği koruyarak mevcut videoyu yeniden stillendiren, uzatan, ekleyen, ka
 
 <a id="prompt-13"></a>
 
-#### #9: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
+#### #10: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -878,8 +970,12 @@ Change the style to futuristic Cyberpunk
 </tr>
 </table>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg" height="420" alt="Mevcut klibin atomik cyberpunk yeniden stillendirmesi - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21)**
 </div>
 
 ##### Kanıt
@@ -920,10 +1016,10 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (12)</summary>
+<summary>Community creators we thank (13)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme)<br>
-[Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
+[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -943,6 +1039,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-15T13:39:34.093Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-15T14:24:17.943Z</sub>
 
 </div>

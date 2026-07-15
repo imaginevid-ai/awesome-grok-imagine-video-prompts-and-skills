@@ -98,9 +98,9 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 
 | Campo de la colección | Valor actual |
 |--------|-------|
-| Casos verificados | **13** |
+| Casos verificados | **14** |
 | Selección editorial | **4** |
-| Generado | **miércoles, 15 de julio de 2026, 13:39:34 UTC** |
+| Generado | **miércoles, 15 de julio de 2026, 14:24:17 UTC** |
 
 </div>
 
@@ -138,8 +138,12 @@ Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg" height="420" alt="Montaje rápido de detalles de una nave con transiciones marcadas - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24)**
 </div>
 
 #### Evidencias
@@ -199,8 +203,12 @@ Fun playful background music.
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" height="420" alt="Explosión de cereales a cámara lenta con diálogo y diseño sonoro - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25)**
 </div>
 
 #### Evidencias
@@ -257,8 +265,12 @@ Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, 
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg" height="420" alt="Pelea de marionetas en un solo plano con audio slapstick sincronizado - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27)**
 </div>
 
 #### Evidencias
@@ -328,8 +340,12 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 </details>
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg" height="420" alt="Revelación de un perfume de lujo en cinco planos comerciales temporizados - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24)**
 </div>
 
 #### Evidencias
@@ -384,8 +400,12 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg" height="420" alt="Carrera de un cámara diminuto por un escritorio con beats narrativos temporizados - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25)**
 </div>
 
 ##### Evidencias
@@ -435,8 +455,12 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" height="420" alt="Discusión sutil impulsada por pausas y microexpresiones - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25)**
 </div>
 
 ##### Evidencias
@@ -495,8 +519,12 @@ On-screen text sequence:
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg" height="420" alt="Vertido natural de té verde con cartela final del producto - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25)**
 </div>
 
 ##### Evidencias
@@ -554,8 +582,12 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg" height="420" alt="Beso fantástico a la luz de las antorchas con continuidad de cine práctico - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27)**
 </div>
 
 ##### Evidencias
@@ -619,8 +651,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg" height="420" alt="Vuelo de dragón a gran velocidad con física del fuego, la tela y el audio - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28)**
 </div>
 
 ##### Evidencias
@@ -778,8 +814,12 @@ Un experimento estructurado de estabilidad que congela una composición de ocho 
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg" height="420" alt="Cuadrícula editorial bloqueada con micromovimiento independiente - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21)**
 </div>
 
 ##### Evidencias
@@ -795,7 +835,7 @@ Un experimento estructurado de estabilidad que congela una composición de ocho 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Movimiento estilizado y efectos visuales (2)
+### Movimiento estilizado y efectos visuales (3)
 
 Efectos y patrones de animación impulsados por transformaciones, simulación, física surrealista, movimiento gráfico o un tratamiento visual distintivo.
 
@@ -824,8 +864,12 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg" height="420" alt="Roce de dragones a la luz de la luna en cámara lenta contenida - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23)**
 </div>
 
 ##### Evidencias
@@ -864,8 +908,12 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 </details>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg" height="420" alt="Recorrido continuo de artes marciales con física de impactos contundentes - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25)**
 </div>
 
 ##### Evidencias
@@ -873,6 +921,50 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 - **Creador:** [⭕Kisalay](https://x.com/Kisalay_)
 - **Fuente canónica:** [Fuente canónica](https://x.com/Kisalay_/status/2067298200520896673)
 - **Publicado:** 17 de junio de 2026
+- **Idioma del prompt:** en
+
+**[Crea con esta dirección · ImagineVid](https://imaginevid.io/es/grok-imagine)**
+
+---
+
+<a id="prompt-14"></a>
+
+#### #9: Esfera de agua de flujo inverso
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Por qué importa este flujo de trabajo
+
+Un prompt de vídeo conciso que desafía la física: el agua asciende desde un vaso y forma una esfera flotante bajo una luz diurna suave.
+
+##### Prompt localizado
+
+```
+Un vaso de agua sobre una mesa; de repente, el agua fluye hacia arriba, sale del vaso y forma una esfera flotante, fotorrealista, con luz diurna suave
+```
+
+<details>
+<summary>Prompt original de la fuente</summary>
+
+```
+A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" height="420" alt="Esfera de agua de flujo inverso - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25)**
+</div>
+
+##### Evidencias
+
+- **Creador:** [atmen](https://x.com/atmen189)
+- **Fuente canónica:** [Fuente canónica](https://x.com/atmen189/status/2077238726120669192)
+- **Publicado:** 15 de julio de 2026
 - **Idioma del prompt:** en
 
 **[Crea con esta dirección · ImagineVid](https://imaginevid.io/es/grok-imagine)**
@@ -887,7 +979,7 @@ Flujos de vídeo existente que cambian el estilo, amplían, añaden, eliminan, s
 
 <a id="prompt-13"></a>
 
-#### #9: Cambio de estilo ciberpunk atómico de un clip existente
+#### #10: Cambio de estilo ciberpunk atómico de un clip existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -919,8 +1011,12 @@ Change the style to futuristic Cyberpunk
 </tr>
 </table>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg" height="420" alt="Cambio de estilo ciberpunk atómico de un clip existente - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21)**
 </div>
 
 ##### Evidencias
@@ -961,10 +1057,10 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 ## Créditos de los creadores
 
 <details>
-<summary>Community creators we thank (12)</summary>
+<summary>Community creators we thank (13)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme)<br>
-[Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
+[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -984,6 +1080,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-07-15T13:39:34.043Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-07-15T14:24:17.885Z</sub>
 
 </div>

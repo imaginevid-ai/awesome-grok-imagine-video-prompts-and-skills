@@ -6,8 +6,8 @@ prompt-repository.ts: Local JSON repository exposing Grok Imagine prompts, revie
 i18n.ts: Fourteen-language publication-copy facade with English fallback.
 media-reference.ts: Public video/preview URL normalization boundary with no external gallery upload.
 locales/: English source copy plus thirteen reviewed publication-language packs.
-markdown-generator.ts: GitHub-native multilingual cover, model facts, video evidence, workflow groups, contribution CTA, and footer renderer.
-markdown-generator.test.ts: Fourteen-language launch, official-link, product-route, video-media, editing-frame, and workflow regression tests.
+markdown-generator.ts: GitHub-native multilingual cover, model facts, YouMind-style clickable video previews, workflow groups, contribution CTA, and footer renderer.
+markdown-generator.test.ts: Fourteen-language launch, official-link, product-route, clickable-video, editing-frame, and workflow regression tests.
 prompt-quality.ts: X candidate hard gates, video-model evidence, scoring, and text/media duplicate fingerprints.
 prompt-quality.test.ts: Grok evidence, competing-model rejection, promotional-noise, and batch-duplicate regression tests.
 translation-types.ts: Shared README copy contract implemented by every publication language.

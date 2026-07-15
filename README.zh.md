@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **13** |
+| 已核验案例 | **14** |
 | 编辑精选 | **4** |
-| 生成时间 | **2026年7月15日星期三 UTC 13:39:34** |
+| 生成时间 | **2026年7月15日星期三 UTC 14:24:17** |
 
 </div>
 
@@ -138,8 +138,12 @@ Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp
 
 </details>
 
+#### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg" height="420" alt="快速飞船细节蒙太奇与硬切转场 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24)**
 </div>
 
 #### 证据
@@ -199,8 +203,12 @@ Fun playful background music.
 
 </details>
 
+#### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" height="420" alt="慢动作麦片爆散与对白和声音设计 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25)**
 </div>
 
 #### 证据
@@ -257,8 +265,12 @@ Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, 
 
 </details>
 
+#### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg" height="420" alt="同步滑稽音效的单镜头木偶大战 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27)**
 </div>
 
 #### 证据
@@ -328,8 +340,12 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 </details>
 
+#### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg" height="420" alt="五个定时商业镜头的奢华香水揭示 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24)**
 </div>
 
 #### 证据
@@ -384,8 +400,12 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg" height="420" alt="微型摄影师穿越桌面与定时故事节拍 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25)**
 </div>
 
 ##### 证据
@@ -435,8 +455,12 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" height="420" alt="由停顿与微表情驱动的微妙争吵 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25)**
 </div>
 
 ##### 证据
@@ -495,8 +519,12 @@ On-screen text sequence:
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg" height="420" alt="自然绿茶倾倒与产品片尾卡 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25)**
 </div>
 
 ##### 证据
@@ -554,8 +582,12 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg" height="420" alt="火炬照明的奇幻亲吻与实拍电影连续性 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27)**
 </div>
 
 ##### 证据
@@ -619,8 +651,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg" height="420" alt="高速飞龙飞行与火焰、布料及音频物理 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28)**
 </div>
 
 ##### 证据
@@ -754,8 +790,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg" height="420" alt="锁定的编辑网格与独立微运动 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21)**
 </div>
 
 ##### 证据
@@ -771,7 +811,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### 风格化运动与视觉特效 (2)
+### 风格化运动与视觉特效 (3)
 
 由变形、模拟、超现实物理、图形运动或独特媒介处理驱动的特效与动画模式。
 
@@ -800,8 +840,12 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg" height="420" alt="月光下飞龙克制的依偎 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23)**
 </div>
 
 ##### 证据
@@ -840,8 +884,12 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 </details>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg" height="420" alt="连续武术穿越与沉重冲击物理 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25)**
 </div>
 
 ##### 证据
@@ -849,6 +897,50 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 - **创作者:** [⭕Kisalay](https://x.com/Kisalay_)
 - **规范来源:** [规范来源](https://x.com/Kisalay_/status/2067298200520896673)
 - **发布时间:** 2026年6月17日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
+<a id="prompt-14"></a>
+
+#### #9: 逆流悬浮的水球
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+一条简洁而反常规物理的视频提示词：水从玻璃杯中向上流出，在柔和日光下汇聚成悬浮球体。
+
+##### 本地化提示词
+
+```
+桌上放着一杯水，水突然从杯中向上流出，并形成一个悬浮的球体；照片级写实，柔和日光
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" height="420" alt="逆流悬浮的水球 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25)**
+</div>
+
+##### 证据
+
+- **创作者:** [atmen](https://x.com/atmen189)
+- **规范来源:** [规范来源](https://x.com/atmen189/status/2077238726120669192)
+- **发布时间:** 2026年7月15日
 - **提示词语言:** en
 
 **[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
@@ -863,7 +955,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-13"></a>
 
-#### #9: 现有片段的原子级赛博朋克重塑
+#### #10: 现有片段的原子级赛博朋克重塑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -895,8 +987,12 @@ Change the style to futuristic Cyberpunk
 </tr>
 </table>
 
+##### 视频
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg" height="420" alt="现有片段的原子级赛博朋克重塑 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21)**
 </div>
 
 ##### 证据
@@ -937,10 +1033,10 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (12)</summary>
+<summary>查看并感谢社区作者 (13)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme)<br>
-[Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
+[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -960,6 +1056,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-15T13:39:34.079Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-15T14:24:17.930Z</sub>
 
 </div>

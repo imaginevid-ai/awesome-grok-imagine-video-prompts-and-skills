@@ -649,5 +649,59 @@
         }
       ]
     }
+  },
+  {
+    "id": 14,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Reverse-flow water sphere"
+    },
+    "description": {
+      "en": "A concise physics-defying video prompt in which water rises from a glass and gathers into a floating sphere under soft daylight."
+    },
+    "content": {
+      "en": "A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight"
+    },
+    "sourceLink": "https://x.com/atmen189/status/2077238726120669192",
+    "sourcePublishedAt": "2026-07-15T03:48:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg"
+    },
+    "author": {
+      "name": "atmen",
+      "link": "https://x.com/atmen189"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 14,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077238726120669192",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 3,
+      "replyCount": 4,
+      "likeCount": 7,
+      "quoteCount": 0,
+      "viewCount": 235,
+      "bookmarkCount": 0,
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-15",
+      "input_mode": "text-to-video",
+      "curation_note": "The source post includes both the complete prompt and the generated six-second video."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Stylized Motion & Visual Effects",
+          "slug": "stylized-motion-visual-effects"
+        }
+      ]
+    }
   }
 ]

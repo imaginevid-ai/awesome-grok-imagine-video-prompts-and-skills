@@ -1,6 +1,6 @@
 /**
  * [INPUT]: 依赖 markdown-generator 的十四语言发布接口与 Grok Imagine Video 数据契约
- * [OUTPUT]: 验证多语言首屏、官方事实、产品链接、视频媒体、编辑前后帧和分类行为
+ * [OUTPUT]: 验证多语言首屏、官方事实、产品链接、可点击视频案例、编辑前后帧和分类行为
  * [POS]: scripts/utils 的 README 发布回归套件，阻止旧模型文案与视频证据展示回归
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
@@ -112,14 +112,17 @@ test("renders parallel preview media without dropping a clip thumbnail", () => {
   assert.match(markdown, /<table>/);
 });
 
-test("links an animated preview to the canonical source", () => {
+test("renders a video case as a clickable preview with an explicit playback link", () => {
   const markdown = generateAnimationPreview(
     "https://example.com/preview.gif",
     "Animated shot",
-    "https://x.com/creator/status/1234567890"
+    "https://example.com/result.mp4"
   );
   assert.match(markdown, /preview\.gif/);
-  assert.match(markdown, /x\.com\/creator\/status\/1234567890/);
+  assert.match(markdown, /Click the preview to open the video/);
+  assert.match(markdown, /Watch video/);
+  assert.equal((markdown.match(/https:\/\/example\.com\/result\.mp4/g) || []).length, 2);
+  assert.doesNotMatch(markdown, /<video/);
 });
 
 test("shows source and result frames for a video editing case", () => {
@@ -147,6 +150,8 @@ test("shows source and result frames for a video editing case", () => {
   assert.match(markdown, /Source and result frames/);
   assert.match(markdown, /source-frame\.jpg/);
   assert.match(markdown, /result-frame\.jpg/);
+  assert.match(markdown, /#### Video/);
+  assert.match(markdown, /Watch video/);
   assert.match(markdown, /edited-result\.mp4/);
 });
 
@@ -172,5 +177,7 @@ test("keeps the English source prompt below a reviewed localization", () => {
   assert.match(markdown, /Prompt original/);
   assert.match(markdown, /Acercamiento lento/);
   assert.match(markdown, /Slow cinematic push-in/);
+  assert.match(markdown, /### Video/);
+  assert.match(markdown, /Ver video/);
   assert.match(markdown, /imaginevid\.io\/es\/grok-imagine/);
 });

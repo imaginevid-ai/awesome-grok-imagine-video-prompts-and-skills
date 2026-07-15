@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **13** |
+| 검증된 사례 | **14** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 7월 15일 수요일 오후 1시 39분 34초 UTC** |
+| 생성 시각 | **2026년 7월 15일 수요일 PM 2시 24분 17초 UTC** |
 
 </div>
 
@@ -138,8 +138,12 @@ Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp
 
 </details>
 
+#### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg" height="420" alt="빠른 우주선 디테일 몽타주와 하드 트랜지션 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24)**
 </div>
 
 #### 근거
@@ -199,8 +203,12 @@ Fun playful background music.
 
 </details>
 
+#### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" height="420" alt="대사와 사운드 디자인을 곁들인 슬로 모션 시리얼 폭발 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25)**
 </div>
 
 #### 근거
@@ -257,8 +265,12 @@ Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, 
 
 </details>
 
+#### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg" height="420" alt="동기화된 슬랩스틱 오디오를 곁들인 원테이크 인형 싸움 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27)**
 </div>
 
 #### 근거
@@ -327,8 +339,12 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 </details>
 
+#### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg" height="420" alt="다섯 개의 타임드 광고 샷으로 보여 주는 럭셔리 향수 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24)**
 </div>
 
 #### 근거
@@ -383,8 +399,12 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg" height="420" alt="타임드 스토리 비트를 따라 달리는 초소형 카메라맨 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25)**
 </div>
 
 ##### 근거
@@ -434,8 +454,12 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" height="420" alt="멈춤과 미세 표정으로 이끄는 미묘한 말다툼 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25)**
 </div>
 
 ##### 근거
@@ -494,8 +518,12 @@ On-screen text sequence:
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg" height="420" alt="자연스러운 녹차 따르기와 제품 엔드 카드 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25)**
 </div>
 
 ##### 근거
@@ -553,8 +581,12 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg" height="420" alt="실사 영화 연속성을 살린 횃불빛 판타지 키스 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27)**
 </div>
 
 ##### 근거
@@ -618,8 +650,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg" height="420" alt="불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28)**
 </div>
 
 ##### 근거
@@ -777,8 +813,12 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg" height="420" alt="독립적인 미세 움직임을 가진 고정 에디토리얼 그리드 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21)**
 </div>
 
 ##### 근거
@@ -794,7 +834,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### 스타일라이즈드 모션 및 시각 효과 (2)
+### 스타일라이즈드 모션 및 시각 효과 (3)
 
 변형, 시뮬레이션, 초현실적 물리, 그래픽 모션 또는 독특한 미디어 처리로 구동되는 효과 및 애니메이션 패턴입니다.
 
@@ -823,8 +863,12 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg" height="420" alt="절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23)**
 </div>
 
 ##### 근거
@@ -863,8 +907,12 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 </details>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg" height="420" alt="강한 충격 물리학을 적용한 연속 무술 이동 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25)**
 </div>
 
 ##### 근거
@@ -872,6 +920,50 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 - **제작자:** [⭕Kisalay](https://x.com/Kisalay_)
 - **정식 출처:** [정식 출처](https://x.com/Kisalay_/status/2067298200520896673)
 - **게시일:** 2026년 6월 17일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
+<a id="prompt-14"></a>
+
+#### #9: 역류해 떠오르는 물 구체
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+유리잔의 물이 위로 솟아나 부드러운 낮빛 아래 공중에 떠 있는 구체로 모이는, 물리 법칙을 거스르는 간결한 동영상 프롬프트입니다.
+
+##### 현지화 프롬프트
+
+```
+테이블 위에 물이 든 유리잔이 있다. 갑자기 물이 잔 밖으로 위로 흐르며 공중에 떠 있는 구체를 만든다. 사실적 표현, 부드러운 낮빛
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" height="420" alt="역류해 떠오르는 물 구체 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [atmen](https://x.com/atmen189)
+- **정식 출처:** [정식 출처](https://x.com/atmen189/status/2077238726120669192)
+- **게시일:** 2026년 7월 15일
 - **프롬프트 언어:** en
 
 **[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
@@ -886,7 +978,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-13"></a>
 
-#### #9: 기존 클립의 원자적 사이버펑크 스타일 변경
+#### #10: 기존 클립의 원자적 사이버펑크 스타일 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -918,8 +1010,12 @@ Change the style to futuristic Cyberpunk
 </tr>
 </table>
 
+##### 동영상
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg" height="420" alt="기존 클립의 원자적 사이버펑크 스타일 변경 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21)**
 </div>
 
 ##### 근거
@@ -960,10 +1056,10 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (12)</summary>
+<summary>Community creators we thank (13)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme)<br>
-[Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
+[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -983,6 +1079,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-15T13:39:34.074Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-15T14:24:17.925Z</sub>
 
 </div>

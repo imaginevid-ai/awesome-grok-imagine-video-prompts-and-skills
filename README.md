@@ -98,9 +98,9 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **13** |
+| Verified Cases | **14** |
 | Editorial pick | **4** |
-| Generated | **Wednesday, July 15, 2026 at 1:39:33 PM UTC** |
+| Generated | **Wednesday, July 15, 2026 at 2:24:17 PM UTC** |
 
 </div>
 
@@ -129,8 +129,12 @@ A compact test of multi-scene pacing that assigns a new spacecraft detail and de
 Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp zoom-ins and zoom-outs on different details of the spacecraft every second. Sharp scene transitions, no fade.
 ```
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg" height="420" alt="Rapid spacecraft detail montage with hard transitions - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24)**
 </div>
 
 #### Evidence
@@ -171,8 +175,12 @@ Girl’s surprised gasp.
 Fun playful background music.
 ```
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" height="420" alt="Slow-motion cereal burst with dialogue and sound design - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25)**
 </div>
 
 #### Evidence
@@ -212,8 +220,12 @@ Motion: fast handheld camera, aggressive push-in, impact shakes, whip-like refra
 Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, rope twangs, stuffing pops, arena bass hit, chaotic crowd reaction.
 ```
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg" height="420" alt="One-shot puppet fight with synchronized slapstick audio - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27)**
 </div>
 
 #### Evidence
@@ -259,8 +271,12 @@ A premium glass perfume bottle with a minimalist luxury design and a visible ele
 ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass reflections, slow motion, depth of field, soft glow, film quality, elegant, premium aesthetic, no text overlay, no subtitles.
 ```
 
+#### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24"><img src="https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg" height="420" alt="Luxury perfume reveal in five timed commercial shots - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24)**
 </div>
 
 #### Evidence
@@ -306,8 +322,12 @@ A four-beat miniature chase that uses timestamps, scale references, handheld tra
 Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch cameraman running across a giant content creator’s desk. 0–4s: he sprints past huge keyboard keys like city buildings. 4–8s: he slides under a glowing phone screen that feels like a neon portal. 8–12s: he circles a coffee cup like a massive tower while filming upward. 12–15s: he jumps onto a notebook, points the camera at the viewer, and the desk world freezes in a dramatic hero shot. Warm sunlight, realistic miniature scale, smooth handheld tracking, playful creator energy. Audio: tiny footsteps, camera clicks, soft whooshes, upbeat electronic beat. No text, no subtitles, no logos.
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg" height="420" alt="Tiny cameraman desk run with timed story beats - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25)**
 </div>
 
 ##### Evidence
@@ -348,8 +368,12 @@ A restrained performance brief for testing emotional direction through concise d
 Create an emotional scene of an angry couple, limited punchy dialogue, appropriate subtle micro expressions, warm color grading with key fill light and anamorphic lensing no onscreen text, emotionally complex but subtle proper angles, younger American couple with indie film drama sensibility with anger and pauses for a full range
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" height="420" alt="Subtle argument driven by pauses and micro-expressions - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25)**
 </div>
 
 ##### Evidence
@@ -394,8 +418,12 @@ On-screen text sequence:
 10–15 sec: Sip Wellness, Live Better.
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg" height="420" alt="Natural green-tea pour with product end card - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25)**
 </div>
 
 ##### Evidence
@@ -438,8 +466,12 @@ She gives him one brief, playful kiss — a quick, tender moment. Immediately af
 Captured like raw practical footage from a medieval fantasy movie — authentic 1960s film stock look with rich warm tones, natural imperfections, slight lens flares from torchlight, organic camera shake. The entire sequence unfolds in real time with theatrical blocking and timing reminiscent of classic adventure cinema.
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27"><img src="https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg" height="420" alt="Torchlit fantasy kiss with practical-film continuity - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27)**
 </div>
 
 ##### Evidence
@@ -482,8 +514,12 @@ Lighting & atmosphere: Dragon fire provides the primary moving light source, dra
 Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoosh of intense fire, strong wind rush, and distant city ambience with natural reverb. Photorealistic rendering, coherent motion, intricate detail, no artifacts, shot with ARRI Alexa-level fidelity. Masterpiece, maximum epic scale, speed, and cinematic impact.
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg" height="420" alt="High-speed dragon flight with fire, cloth, and audio physics - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28)**
 </div>
 
 ##### Evidence
@@ -573,8 +609,12 @@ A structured stability experiment that freezes an eight-panel layout and camera 
 }
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg" height="420" alt="Locked editorial grid with independent micro-motion - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21)**
 </div>
 
 ##### Evidence
@@ -590,7 +630,7 @@ A structured stability experiment that freezes an eight-panel layout and camera 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Stylized Motion & Visual Effects (2)
+### Stylized Motion & Visual Effects (3)
 
 Effects and animation patterns driven by transformations, simulation, surreal physics, graphic motion, or a distinctive media treatment.
 
@@ -610,8 +650,12 @@ A static close-up that concentrates on one tender action, subtle muscle movement
 Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest. The two dragons slowly and tenderly move their heads toward each other. The golden dragon gently nudges the purple dragon’s neck. Their scales shimmer and reflect the silver moonlight. Camera Movement: static shot, The camera captures the subtle muscle ripples under the scales and the soft amber glow in their eyes. Atmosphere & Lighting: Soft-focus background with a giant full moon.
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg" height="420" alt="Moonlit dragon nuzzle in restrained slow motion - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23)**
 </div>
 
 ##### Evidence
@@ -641,8 +685,12 @@ A six-second action brief combining terrain traversal, chained combat moves, rea
 Masterpiece quality, 6-second video of a highly skilled fighter traversing rough terrain while engaged in a brutal, high-intensity fight. The character performs fast, powerful martial arts combos including spinning kicks, flying knees, aerial flips, wall runs, and savage takedowns. Strong realistic physics with heavy impact and momentum. Dynamic camera work with tracking shots, circling camera, and dramatic low angles. Cinematic lighting, sharp motion clarity, intense and raw action, no cuts, smooth and powerful choreography, best quality, 6-second video.
 ```
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg" height="420" alt="Continuous martial-arts traversal with heavy impact physics - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25)**
 </div>
 
 ##### Evidence
@@ -650,6 +698,41 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 - **Creator:** [⭕Kisalay](https://x.com/Kisalay_)
 - **Canonical source:** [Canonical source](https://x.com/Kisalay_/status/2067298200520896673)
 - **Published:** June 17, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
+
+---
+
+<a id="prompt-14"></a>
+
+#### #9: Reverse-flow water sphere
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A concise physics-defying video prompt in which water rises from a glass and gathers into a floating sphere under soft daylight.
+
+##### Source prompt
+
+```
+A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" height="420" alt="Reverse-flow water sphere - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2077061435562364928/vid/avc1/752x416/sWQUveRllw3DBHTI.mp4?tag=25)**
+</div>
+
+##### Evidence
+
+- **Creator:** [atmen](https://x.com/atmen189)
+- **Canonical source:** [Canonical source](https://x.com/atmen189/status/2077238726120669192)
+- **Published:** July 15, 2026
 - **Prompt language:** en
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
@@ -664,7 +747,7 @@ Existing-video workflows that restyle, extend, add, remove, replace, or redirect
 
 <a id="prompt-13"></a>
 
-#### #9: Atomic cyberpunk restyle of an existing clip
+#### #10: Atomic cyberpunk restyle of an existing clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -687,8 +770,12 @@ Change the style to futuristic Cyberpunk
 </tr>
 </table>
 
+##### Video
+
 <div align="center">
 <a href="https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg" height="420" alt="Atomic cyberpunk restyle of an existing clip - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21)**
 </div>
 
 ##### Evidence
@@ -729,10 +816,10 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (12)</summary>
+<summary>Community creators we thank (13)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme)<br>
-[Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
+[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -752,6 +839,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-15T13:39:34.033Z</sub>
+<sub>Generated from versioned local data on 2026-07-15T14:24:17.876Z</sub>
 
 </div>
