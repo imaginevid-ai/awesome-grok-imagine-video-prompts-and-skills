@@ -98,9 +98,9 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **14** |
+| Geverifieerde voorbeelden | **15** |
 | Redactionele keuze | **4** |
-| Gegenereerd | **vrijdag 17 juli 2026 om 02:28:11 UTC** |
+| Gegenereerd | **vrijdag 17 juli 2026 om 04:03:24 UTC** |
 
 </div>
 
@@ -540,7 +540,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Afbeelding-naar-video en subjectcontinuïteit (3)
+### Afbeelding-naar-video en subjectcontinuïteit (4)
 
 Op een afbeelding gebaseerde workflows die een stilstaand beeld animeren en identiteit, compositie, productgeometrie of storyboardlayout behouden.
 
@@ -833,6 +833,51 @@ Een gestructureerd stabiliteitsexperiment dat een layout met acht panelen en de 
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: Slapende reus op Times Square
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Waarom de workflow belangrijk is
+
+Een referentiegestuurd surrealistisch schaalbeeld verandert een persoon in een slapende stadsreus en gebruikt verkeer, wegmarkeringen, billboards en een schuine dronehoek als maatstaf.
+
+##### Gelokaliseerde prompt
+
+```
+Een droneshot met extreem perspectief gebruikt het geüploade gezicht als referentie en toont de persoon als een slapende reus die midden op een druk kruispunt van Times Square ligt opgekruld. Het verkeer wordt om het enorme lichaam heen geleid en gele taxi’s lijken speelgoedauto’s. De persoon draagt een comfortabele oversized grijze joggingbroek en hoodie. Wegmarkeringen en straatvuil geven duidelijke schaalreferenties. De elektrische gloed van de billboards op Times Square werpt ’s nachts veelkleurig licht over de slapende figuur. De camera kijkt van boven, maar staat iets schuin zodat de hoogte van de gebouwen zichtbaar blijft. 8K, fotorealistische menigten en voertuigen en een surrealistisch contrast tussen intimiteit en openbare chaos.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="Slapende reus op Times Square - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [Mr Das](https://x.com/MrDasOnX)
+- **Canonieke bron:** [Canonieke bron](https://x.com/MrDasOnX/status/2077443101631926682)
+- **Gepubliceerd:** 15 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Gestileerde beweging en visuele effecten (3)
@@ -841,7 +886,7 @@ Effect- en animatiepatronen rond transformaties, simulatie, surrealistische fysi
 
 <a id="prompt-9"></a>
 
-#### #7: Drakenneusje bij maanlicht in beheerste slow motion
+#### #8: Drakenneusje bij maanlicht in beheerste slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -885,7 +930,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: Doorlopende krijgskunstdoorgang met zware impactfysica
+#### #9: Doorlopende krijgskunstdoorgang met zware impactfysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -929,7 +974,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: Waterbol met omgekeerde stroming
+#### #10: Waterbol met omgekeerde stroming
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -979,7 +1024,7 @@ Workflows voor bestaand videomateriaal die een scène restylen, verlengen, eleme
 
 <a id="prompt-13"></a>
 
-#### #10: Atomische cyberpunk-restyling van een bestaande clip
+#### #11: Atomische cyberpunk-restyling van een bestaande clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1080,6 +1125,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-17T02:28:11.444Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-17T04:03:24.347Z</sub>
 
 </div>

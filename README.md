@@ -98,9 +98,9 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **14** |
+| Verified Cases | **15** |
 | Editorial pick | **4** |
-| Generated | **Friday, July 17, 2026 at 2:28:11 AM UTC** |
+| Generated | **Friday, July 17, 2026 at 4:03:24 AM UTC** |
 
 </div>
 
@@ -439,7 +439,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image-to-Video & Subject Continuity (3)
+### Image-to-Video & Subject Continuity (4)
 
 Image-anchored workflows that animate a still while preserving identity, composition, product geometry, or storyboard layout.
 
@@ -628,6 +628,42 @@ A structured stability experiment that freezes an eight-panel layout and camera 
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: Sleeping giant in Times Square
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Why the workflow matters
+
+A reference-led surreal scale shot that turns a person into a sleeping city giant, using traffic, street markings, billboards, and an oblique drone view as scale cues.
+
+##### Source prompt
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="Sleeping giant in Times Square - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### Evidence
+
+- **Creator:** [Mr Das](https://x.com/MrDasOnX)
+- **Canonical source:** [Canonical source](https://x.com/MrDasOnX/status/2077443101631926682)
+- **Published:** July 15, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Stylized Motion & Visual Effects (3)
@@ -636,7 +672,7 @@ Effects and animation patterns driven by transformations, simulation, surreal ph
 
 <a id="prompt-9"></a>
 
-#### #7: Moonlit dragon nuzzle in restrained slow motion
+#### #8: Moonlit dragon nuzzle in restrained slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -671,7 +707,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: Continuous martial-arts traversal with heavy impact physics
+#### #9: Continuous martial-arts traversal with heavy impact physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -706,7 +742,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: Reverse-flow water sphere
+#### #10: Reverse-flow water sphere
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -747,7 +783,7 @@ Existing-video workflows that restyle, extend, add, remove, replace, or redirect
 
 <a id="prompt-13"></a>
 
-#### #10: Atomic cyberpunk restyle of an existing clip
+#### #11: Atomic cyberpunk restyle of an existing clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -839,6 +875,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-17T02:28:11.390Z</sub>
+<sub>Generated from versioned local data on 2026-07-17T04:03:24.305Z</sub>
 
 </div>

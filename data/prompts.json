@@ -703,5 +703,59 @@
         }
       ]
     }
+  },
+  {
+    "id": 15,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Sleeping giant in Times Square"
+    },
+    "description": {
+      "en": "A reference-led surreal scale shot that turns a person into a sleeping city giant, using traffic, street markings, billboards, and an oblique drone view as scale cues."
+    },
+    "content": {
+      "en": "An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos."
+    },
+    "sourceLink": "https://x.com/MrDasOnX/status/2077443101631926682",
+    "sourcePublishedAt": "2026-07-15T17:20:07.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg"
+    },
+    "author": {
+      "name": "Mr Das",
+      "link": "https://x.com/MrDasOnX"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 15,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077443101631926682",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 3,
+      "replyCount": 10,
+      "likeCount": 24,
+      "quoteCount": 1,
+      "viewCount": 718,
+      "bookmarkCount": 7,
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-17",
+      "input_mode": "image-to-video",
+      "curation_note": "The source post includes the complete creator prompt, explicit Grok Imagine 1.5 evidence, and a playable six-second result."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Image-to-Video & Subject Continuity",
+          "slug": "image-to-video-subject-continuity"
+        }
+      ]
+    }
   }
 ]

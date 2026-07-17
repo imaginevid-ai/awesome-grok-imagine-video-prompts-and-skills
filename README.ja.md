@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **14** |
+| 検証済みケース | **15** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年7月17日金曜日 2:28:11 UTC** |
+| 生成日時 | **2026年7月17日金曜日 4:03:24 UTC** |
 
 </div>
 
@@ -536,7 +536,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### 画像から動画と被写体の連続性 (3)
+### 画像から動画と被写体の連続性 (4)
 
 静止画を動かしながら、人物の同一性、構図、製品形状、絵コンテのレイアウトを保つ画像起点のワークフロー。
 
@@ -805,6 +805,51 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: タイムズスクエアに眠る巨人
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### このワークフローが重要な理由
+
+人物を街中で眠る巨人へ変え、交通、路面表示、広告光、斜め俯瞰のドローン視点で巨大さを示す、参照画像ベースのシュールなスケール演出。
+
+##### ローカライズ済みプロンプト
+
+```
+アップロードした顔を参照し、混雑したタイムズスクエアの交差点の中央で体を丸めて眠る巨人として描く、極端な遠近感のドローンショット。交通は巨大な身体を避けて流れ、黄色いタクシーは玩具の車のように小さく見える。人物はゆったりした大きめのグレーのスウェットパンツとフーディーを着用。アスファルトの路面表示や街の細かなごみがスケール感を支える。夜のタイムズスクエアの電光看板が鮮やかな多色光を眠る人物へ投げかける。カメラは真上に近い位置から、建物の高さが分かるよう少し傾ける。8K、写実的な群衆と車両、親密さと公共空間の混沌が同居するシュールな画面。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="タイムズスクエアに眠る巨人 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Mr Das](https://x.com/MrDasOnX)
+- **正規の出典:** [正規の出典](https://x.com/MrDasOnX/status/2077443101631926682)
+- **公開日:** 2026年7月15日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### スタイライズドモーションと視覚効果 (3)
@@ -813,7 +858,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-9"></a>
 
-#### #7: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
+#### #8: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -857,7 +902,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: 重い衝撃物理を伴う連続武術トラバーサル
+#### #9: 重い衝撃物理を伴う連続武術トラバーサル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -901,7 +946,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: 逆流して浮かぶ水の球体
+#### #10: 逆流して浮かぶ水の球体
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #10: 既存クリップを原子力級サイバーパンクにリスタイル
+#### #11: 既存クリップを原子力級サイバーパンクにリスタイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1052,6 +1097,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-17T02:28:11.428Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-17T04:03:24.336Z</sub>
 
 </div>

@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **14** |
+| Проверенные примеры | **15** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **пятница, 17 июля 2026 г. в 02:28:11 UTC** |
+| Сгенерировано | **пятница, 17 июля 2026 г. в 04:03:24 UTC** |
 
 </div>
 
@@ -540,7 +540,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image-to-video и непрерывность объекта (3)
+### Image-to-video и непрерывность объекта (4)
 
 Рабочие процессы, оживляющие изображение с сохранением личности, композиции, геометрии продукта или раскадровки.
 
@@ -809,6 +809,51 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: Спящий гигант на Таймс-сквер
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Зачем нужен этот рабочий процесс
+
+Сюрреалистичный кадр по референсу превращает человека в спящего городского гиганта, а транспорт, разметка, экраны и наклонный ракурс дрона задают масштаб.
+
+##### Локализованный промпт
+
+```
+Дрон снимает с экстремальной перспективой: загруженное лицо используется как референс, а человек показан спящим гигантом, свернувшимся посреди оживлённого перекрёстка на Таймс-сквер. Поток машин огибает огромное тело, и жёлтые такси выглядят игрушечными. На герое удобные свободные серые спортивные брюки и худи. Разметка на асфальте и мелкий уличный мусор служат ориентирами масштаба. Ночные экраны Таймс-сквер отбрасывают на спящую фигуру яркий разноцветный свет. Камера находится сверху, но слегка наклонена, чтобы показать высоту зданий. Разрешение 8K, фотореалистичные толпы и автомобили, сюрреалистичное соседство интимности и общественного хаоса.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="Спящий гигант на Таймс-сквер - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Mr Das](https://x.com/MrDasOnX)
+- **Канонический источник:** [Канонический источник](https://x.com/MrDasOnX/status/2077443101631926682)
+- **Опубликовано:** 15 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Стилизованное движение и визуальные эффекты (3)
@@ -817,7 +862,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-9"></a>
 
-#### #7: Лунный драконий нос в сдержанном замедлении
+#### #8: Лунный драконий нос в сдержанном замедлении
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -861,7 +906,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
+#### #9: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -905,7 +950,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: Водяная сфера с обратным потоком
+#### #10: Водяная сфера с обратным потоком
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -955,7 +1000,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #10: Атомный киберпанк-рестайлинг существующего клипа
+#### #11: Атомный киберпанк-рестайлинг существующего клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1056,6 +1101,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-17T02:28:11.448Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-17T04:03:24.350Z</sub>
 
 </div>

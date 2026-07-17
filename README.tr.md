@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **14** |
+| Doğrulanmış örnekler | **15** |
 | Editör seçimi | **4** |
-| Oluşturulma | **17 Temmuz 2026 Cuma 02:28:11 UTC** |
+| Oluşturulma | **17 Temmuz 2026 Cuma 04:03:24 UTC** |
 
 </div>
 
@@ -540,7 +540,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Görselden videoya ve konu sürekliliği (3)
+### Görselden videoya ve konu sürekliliği (4)
 
 Bir sabit görseli canlandırırken kimliği, kompozisyonu, ürün geometrisini veya storyboard yerleşimini koruyan görsel temelli iş akışları.
 
@@ -792,6 +792,51 @@ Sekiz panelli yerleşimi ve kamerayı dondururken kontrollü nefes, göz kırpma
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: Times Square’de uyuyan dev
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### İş akışı neden önemli
+
+Referansla yönlendirilen gerçeküstü ölçek çekimi, kişiyi şehirde uyuyan bir deve dönüştürür; trafik, yol çizgileri, ekranlar ve eğik drone açısı ölçeği belirler.
+
+##### Yerelleştirilmiş prompt
+
+```
+Yüklenen yüzü referans alan aşırı perspektifli drone çekimi; kişiyi Times Square’deki yoğun bir kavşağın ortasında kıvrılıp uyuyan bir dev olarak gösterir. Trafik dev bedenin çevresinden yönlendirilir ve sarı taksiler oyuncak arabalar kadar küçük görünür. Kişi bol, rahat gri eşofman altı ve kapüşonlu üst giyer. Asfalt işaretleri ve sokaktaki küçük parçalar ölçek ipuçları sağlar. Gece Times Square reklam panolarının elektrikli canlılığı, uyuyan figürün üzerine çok renkli ışık düşürür. Kamera yukarıdan bakar ancak binaların yüksekliğini göstermek için hafifçe eğimlidir. 8K çözünürlük, fotogerçekçi kalabalık ve araç ayrıntıları, mahremiyet ile kamusal kaosun gerçeküstü karşıtlığı.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="Times Square’de uyuyan dev - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Mr Das](https://x.com/MrDasOnX)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/MrDasOnX/status/2077443101631926682)
+- **Yayımlandı:** 15 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Stilize hareket ve görsel efektler (3)
@@ -800,7 +845,7 @@ Dönüşüm, simülasyon, sürreal fizik, grafik hareket veya ayırt edici medya
 
 <a id="prompt-9"></a>
 
-#### #7: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
+#### #8: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -844,7 +889,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
+#### #9: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -888,7 +933,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: Ters akışlı su küresi
+#### #10: Ters akışlı su küresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -938,7 +983,7 @@ Sürekliliği koruyarak mevcut videoyu yeniden stillendiren, uzatan, ekleyen, ka
 
 <a id="prompt-13"></a>
 
-#### #10: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
+#### #11: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1039,6 +1084,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-17T02:28:11.453Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-17T04:03:24.354Z</sub>
 
 </div>

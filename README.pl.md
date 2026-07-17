@@ -98,9 +98,9 @@ Zacznij od jednej akcji i jednego pomysłu na kamerę. Dodawaj timing, audio i o
 
 | Pole kolekcji | Bieżąca wartość |
 |--------|-------|
-| Zweryfikowane przykłady | **14** |
+| Zweryfikowane przykłady | **15** |
 | Wybór redakcji | **4** |
-| Wygenerowano | **piątek, 17 lipca 2026 02:28:11 UTC** |
+| Wygenerowano | **piątek, 17 lipca 2026 04:03:24 UTC** |
 
 </div>
 
@@ -540,7 +540,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image-to-video i ciągłość obiektu (3)
+### Image-to-video i ciągłość obiektu (4)
 
 Workflowy zakotwiczone w obrazie, które animują still, zachowując tożsamość, kompozycję, geometrię produktu lub układ storyboardu.
 
@@ -792,6 +792,51 @@ Ustrukturyzowany test stabilności, który zamraża układ ośmiu paneli i kamer
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: Śpiący olbrzym na Times Square
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Dlaczego ten workflow ma znaczenie
+
+Surrealistyczne ujęcie oparte na referencji zmienia osobę w śpiącego miejskiego olbrzyma, a ruch uliczny, oznaczenia, ekrany i ukośny kadr z drona budują skalę.
+
+##### Prompt zlokalizowany
+
+```
+Ujęcie z drona o skrajnej perspektywie wykorzystuje przesłaną twarz jako referencję i pokazuje osobę jako śpiącego olbrzyma zwiniętego pośrodku ruchliwego skrzyżowania na Times Square. Ruch uliczny omija ogromne ciało, a żółte taksówki wyglądają jak zabawkowe samochody. Bohater ma na sobie luźne, wygodne szare spodnie dresowe i bluzę z kapturem. Oznaczenia asfaltu i drobne śmieci na ulicy tworzą czytelne punkty odniesienia skali. Nocne ekrany Times Square rzucają na śpiącą postać wielobarwne światło. Kamera patrzy z góry, ale jest lekko pochylona, by pokazać wysokość budynków. Rozdzielczość 8K, fotorealistyczne tłumy i pojazdy oraz surrealistyczne zestawienie intymności z publicznym chaosem.
+```
+
+<details>
+<summary>Oryginalny prompt źródłowy</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="Śpiący olbrzym na Times Square - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### Dowody
+
+- **Twórca:** [Mr Das](https://x.com/MrDasOnX)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/MrDasOnX/status/2077443101631926682)
+- **Opublikowano:** 15 lipca 2026
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/pl/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Stylizowany ruch i efekty wizualne (3)
@@ -800,7 +845,7 @@ Wzorce efektów i animacji napędzane transformacjami, symulacją, surrealistycz
 
 <a id="prompt-9"></a>
 
-#### #7: Smok dotykający pyskiem w blasku księżyca w powściągliwym slow motion
+#### #8: Smok dotykający pyskiem w blasku księżyca w powściągliwym slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -844,7 +889,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: Ciągłe przejście sztuk walki z ciężką fizyką uderzeń
+#### #9: Ciągłe przejście sztuk walki z ciężką fizyką uderzeń
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -888,7 +933,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: Kula wody płynącej wstecz
+#### #10: Kula wody płynącej wstecz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -938,7 +983,7 @@ Workflowy istniejącego wideo, które restylizują, wydłużają, dodają, usuwa
 
 <a id="prompt-13"></a>
 
-#### #10: Atomowy cyberpunkowy restyling istniejącego klipu
+#### #11: Atomowy cyberpunkowy restyling istniejącego klipu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1039,6 +1084,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-17T02:28:11.459Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-17T04:03:24.359Z</sub>
 
 </div>

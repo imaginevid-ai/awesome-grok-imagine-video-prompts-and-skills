@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **14** |
+| 검증된 사례 | **15** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 7월 17일 금요일 오전 2시 28분 11초 UTC** |
+| 생성 시각 | **2026년 7월 17일 금요일 AM 4시 3분 24초 UTC** |
 
 </div>
 
@@ -539,7 +539,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### 이미지-투-비디오 및 주제 연속성 (3)
+### 이미지-투-비디오 및 주제 연속성 (4)
 
 정지 이미지를 애니메이션화하면서 인물의 정체성, 구도, 제품 형태 또는 스토리보드 레이아웃을 보존하는 이미지 기반 워크플로입니다.
 
@@ -832,6 +832,51 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: 타임스스퀘어에 잠든 거인
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 이 워크플로가 중요한 이유
+
+인물을 도심에 잠든 거인으로 바꾸고 교통, 도로 표시, 전광판과 비스듬한 드론 시점으로 규모를 보여 주는 참조 기반 초현실 영상입니다.
+
+##### 현지화 프롬프트
+
+```
+업로드한 얼굴을 참조해 붐비는 타임스스퀘어 교차로 한가운데 웅크려 잠든 거인으로 표현한 극단적 원근감의 드론 샷. 교통은 거대한 몸을 피해 흐르고 노란 택시는 장난감 자동차처럼 작아 보인다. 인물은 편안한 오버사이즈 회색 스웨트팬츠와 후디를 입고 있다. 아스팔트의 노면 표시와 거리의 작은 잔해가 크기 비교 기준을 만든다. 밤의 타임스스퀘어 전광판이 뿜는 화려한 전기빛이 잠든 인물 위로 여러 색을 드리운다. 카메라는 위에서 내려다보되 건물 높이가 드러나도록 살짝 기울인다. 8K 해상도, 사실적인 군중과 차량 디테일, 사적인 친밀함과 공공의 혼돈이 대비되는 초현실적 장면.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="타임스스퀘어에 잠든 거인 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [Mr Das](https://x.com/MrDasOnX)
+- **정식 출처:** [정식 출처](https://x.com/MrDasOnX/status/2077443101631926682)
+- **게시일:** 2026년 7월 15일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### 스타일라이즈드 모션 및 시각 효과 (3)
@@ -840,7 +885,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-9"></a>
 
-#### #7: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
+#### #8: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -884,7 +929,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: 강한 충격 물리학을 적용한 연속 무술 이동
+#### #9: 강한 충격 물리학을 적용한 연속 무술 이동
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -928,7 +973,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: 역류해 떠오르는 물 구체
+#### #10: 역류해 떠오르는 물 구체
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -978,7 +1023,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #10: 기존 클립의 원자적 사이버펑크 스타일 변경
+#### #11: 기존 클립의 원자적 사이버펑크 스타일 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1079,6 +1124,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-17T02:28:11.434Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-17T04:03:24.340Z</sub>
 
 </div>

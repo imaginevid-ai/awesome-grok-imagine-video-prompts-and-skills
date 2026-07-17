@@ -98,9 +98,9 @@ Comece com uma ação e uma ideia de câmara. Acrescente timing, áudio e restri
 
 | Campo da coleção | Valor atual |
 |--------|-------|
-| Casos verificados | **14** |
+| Casos verificados | **15** |
 | Seleção editorial | **4** |
-| Gerado | **sexta-feira, 17 de julho de 2026 às 02:28:11 UTC** |
+| Gerado | **sexta-feira, 17 de julho de 2026 às 04:03:24 UTC** |
 
 </div>
 
@@ -540,7 +540,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Imagem para vídeo e continuidade do sujeito (3)
+### Imagem para vídeo e continuidade do sujeito (4)
 
 Fluxos ancorados numa imagem que animam uma imagem fixa preservando a identidade, a composição, a geometria do produto ou a disposição do storyboard.
 
@@ -833,6 +833,51 @@ Uma experiência estruturada de estabilidade que congela uma composição de oit
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: Gigante adormecido em Times Square
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Porque é que o fluxo é importante
+
+Um plano surrealista orientado por referência transforma uma pessoa num gigante urbano adormecido, usando trânsito, marcas rodoviárias, ecrãs e uma vista oblíqua de drone como escala.
+
+##### Prompt localizado
+
+```
+Plano de drone com perspetiva extrema, usando o rosto carregado como referência para mostrar o sujeito como um gigante adormecido, enroscado no centro de uma movimentada interseção de Times Square. O trânsito é desviado à volta do corpo e os táxis amarelos parecem carros de brincar. O sujeito veste calças de fato de treino cinzentas, largas e confortáveis, e uma sweatshirt com capuz. As marcas do asfalto e os detritos da rua fornecem referências de escala. A vibração elétrica dos painéis de Times Square à noite projeta luz multicolorida sobre a figura adormecida. A câmara fica por cima, mas ligeiramente inclinada para mostrar a altura dos edifícios. Resolução 8K, multidões e veículos fotorrealistas e uma justaposição surreal entre intimidade e caos público.
+```
+
+<details>
+<summary>Prompt original da fonte</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### Vídeo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="Gigante adormecido em Times Square - Motion preview"></a>
+
+*Clique na prévia para abrir o vídeo* · **[▶ Ver vídeo →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### Evidência
+
+- **Criador:** [Mr Das](https://x.com/MrDasOnX)
+- **Fonte canónica:** [Fonte canónica](https://x.com/MrDasOnX/status/2077443101631926682)
+- **Publicado:** 15 de julho de 2026
+- **Idioma do prompt:** en
+
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Movimento estilizado e efeitos visuais (3)
@@ -841,7 +886,7 @@ Padrões de efeitos e animação conduzidos por transformações, simulação, f
 
 <a id="prompt-9"></a>
 
-#### #7: Carícia de dragões ao luar em câmara lenta contida
+#### #8: Carícia de dragões ao luar em câmara lenta contida
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -885,7 +930,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: Travessia contínua de artes marciais com física de impactos pesados
+#### #9: Travessia contínua de artes marciais com física de impactos pesados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -929,7 +974,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: Esfera de água em fluxo inverso
+#### #10: Esfera de água em fluxo inverso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -979,7 +1024,7 @@ Fluxos para vídeo existente que mudam o estilo, prolongam, adicionam, removem, 
 
 <a id="prompt-13"></a>
 
-#### #10: Restyling cyberpunk elementar de um clip existente
+#### #11: Restyling cyberpunk elementar de um clip existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1080,6 +1125,6 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 **[Enviar um caso verificado](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-07-17T02:28:11.403Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-07-17T04:03:24.316Z</sub>
 
 </div>

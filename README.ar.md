@@ -98,9 +98,9 @@
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **14** |
+| أمثلة موثّقة | **15** |
 | اختيار تحريري | **4** |
-| تاريخ التوليد | **الجمعة، 17 يوليو 2026 في 2:28:11 ص UTC** |
+| تاريخ التوليد | **الجمعة، 17 يوليو 2026 في 4:03:24 ص UTC** |
 
 </div>
 
@@ -540,7 +540,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### الصورة إلى الفيديو واستمرارية الموضوع (3)
+### الصورة إلى الفيديو واستمرارية الموضوع (4)
 
 سير عمل يستند إلى صورة لتحريك إطار ثابت مع الحفاظ على الهوية أو التكوين أو هندسة المنتج أو تخطيط لوحة القصة.
 
@@ -825,6 +825,51 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: عملاق نائم في تايمز سكوير
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### أهمية سير العمل
+
+لقطة سريالية قائمة على صورة مرجعية تحوّل الشخص إلى عملاق نائم وسط المدينة، مع استخدام المرور وعلامات الطريق والشاشات وزاوية الطائرة المسيّرة المائلة لإظهار الحجم.
+
+##### المطالبة المترجمة
+
+```
+لقطة بطائرة مسيّرة ذات منظور شديد تستخدم الوجه المرفوع كمرجع، وتُظهر الشخص كعملاق نائم متكور في منتصف تقاطع مزدحم في تايمز سكوير. تتحول حركة المرور حول جسده الضخم، وتبدو سيارات الأجرة الصفراء كأنها ألعاب صغيرة. يرتدي بنطالًا رياضيًا رماديًا واسعًا ومريحًا وسترة بغطاء رأس. تمنح علامات الإسفلت ومخلفات الشارع إشارات واضحة للحجم. تلقي شاشات تايمز سكوير المتوهجة ليلًا أضواء متعددة الألوان على الشخصية النائمة. تكون الكاميرا من أعلى مع ميل خفيف لإظهار ارتفاع المباني. دقة 8K، تفاصيل واقعية للحشود والمركبات، وتجاور سريالي بين الحميمية وفوضى المكان العام.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="عملاق نائم في تايمز سكوير - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [Mr Das](https://x.com/MrDasOnX)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/MrDasOnX/status/2077443101631926682)
+- **تاريخ النشر:** 15 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### الحركة المنمّقة والمؤثرات البصرية (3)
@@ -833,7 +878,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-9"></a>
 
-#### #7: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
+#### #8: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -877,7 +922,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
+#### #9: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -921,7 +966,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: كرة ماء بتدفق عكسي
+#### #10: كرة ماء بتدفق عكسي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -971,7 +1016,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #10: إعادة تصميم سيبرانية ذرية لمقطع موجود
+#### #11: إعادة تصميم سيبرانية ذرية لمقطع موجود
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1072,6 +1117,6 @@ Change the style to futuristic Cyberpunk
 **[أرسل مثالًا موثّقًا](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-17T02:28:11.424Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-17T04:03:24.332Z</sub>
 
 </div>

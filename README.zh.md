@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **14** |
+| 已核验案例 | **15** |
 | 编辑精选 | **4** |
-| 生成时间 | **2026年7月17日星期五 UTC 02:28:11** |
+| 生成时间 | **2026年7月17日星期五 UTC 04:03:24** |
 
 </div>
 
@@ -540,7 +540,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### 图生视频与主体连续性 (3)
+### 图生视频与主体连续性 (4)
 
 以图像为锚点让静帧动起来，同时保留身份、构图、产品结构或分镜布局的工作流。
 
@@ -809,6 +809,51 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 ---
 
+<a id="prompt-15"></a>
+
+#### #7: 沉睡在时代广场的巨人
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 工作流为何重要
+
+以参考人脸把人物变成城市中沉睡的巨人，并用车流、路面标线、霓虹屏幕和倾斜航拍视角建立超现实尺度。
+
+##### 本地化提示词
+
+```
+采用极端透视的无人机镜头，以上传的人脸为参考，将人物表现为蜷缩在繁忙时代广场十字路口中央沉睡的巨人。车流绕过巨大的身体，黄色出租车相比之下像玩具车。人物穿着宽松舒适的灰色运动裤和连帽衫。沥青路面标线与街道碎屑提供明确的尺度参照。夜晚时代广场广告屏的鲜艳电光把多彩光线投射在沉睡人物身上。镜头从上方俯拍，但略微倾斜，以呈现周围建筑的高度。8K 分辨率，写实的人群和车辆细节，在私密沉睡与公共空间混乱之间形成超现实并置。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+An extreme perspective drone shot capturing the uploaded face as reference as a sleeping giant curled up in the middle of a busy Times Square intersection. Traffic is diverted around the giant body, with yellow taxis appearing as toy cars in comparison. The subject is wearing oversized, comfortable grey sweatpants and a hoodie. The asphalt markings and street debris provide scale cues. The lighting is the electric vibrance of Times Square billboards at night, casting multi-colored light across the sleeping figure. The camera angle is top-down but slightly angled to show the height of the buildings. 8k resolution, photorealistic crowd and vehicle details, and a surreal juxtaposition of intimacy and public chaos.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2077442928272953344/img/I7WDDHxses1etiXw.jpg" height="420" alt="沉睡在时代广场的巨人 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2077442928272953344/vid/avc1/832x1504/-WXJulilhZsyGpHg.mp4?tag=25)**
+</div>
+
+##### 证据
+
+- **创作者:** [Mr Das](https://x.com/MrDasOnX)
+- **规范来源:** [规范来源](https://x.com/MrDasOnX/status/2077443101631926682)
+- **发布时间:** 2026年7月15日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### 风格化运动与视觉特效 (3)
@@ -817,7 +862,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-9"></a>
 
-#### #7: 月光下飞龙克制的依偎
+#### #8: 月光下飞龙克制的依偎
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -861,7 +906,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #8: 连续武术穿越与沉重冲击物理
+#### #9: 连续武术穿越与沉重冲击物理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -905,7 +950,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #9: 逆流悬浮的水球
+#### #10: 逆流悬浮的水球
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -955,7 +1000,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #10: 现有片段的原子级赛博朋克重塑
+#### #11: 现有片段的原子级赛博朋克重塑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1056,6 +1101,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-17T02:28:11.438Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-17T04:03:24.344Z</sub>
 
 </div>
