@@ -98,9 +98,9 @@
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **17** |
+| أمثلة موثّقة | **18** |
 | اختيار تحريري | **4** |
-| تاريخ التوليد | **الأربعاء، 22 يوليو 2026 في 1:47:24 م UTC** |
+| تاريخ التوليد | **الأربعاء، 22 يوليو 2026 في 2:40:27 م UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### إخراج الكاميرا وتصميم اللقطات (2)
+### إخراج الكاميرا وتصميم اللقطات (3)
 
 موجزات لقطات تتمحور حول التأطير ومسار الكاميرا والتوزيع والإيقاع والكشف والانتقالات.
 
@@ -419,6 +419,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: قطرات المطر والطيور بعد ليلة ممطرة
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+مشهد طبيعي رأسي هادئ ينسق قطرات الصنوبر وحركة الريش وعمق المجال الضحل وأصوات ما بعد المطر.
+
+##### المطالبة المترجمة
+
+```
+صباح بعد ليلة من المطر اللطيف. أغصان صنوبر مبتلة في ضوء فجر غائم؛ تتجمع قطرات صافية على الإبر وتسقط واحدة تلو الأخرى. تحط طيور صغيرة ملونة وتهز الماء عن ريشها بحركات طبيعية قصيرة. تتبع قريب وبطيء، عمق مجال ضحل، فيزياء واقعية، ألوان غابة باردة، ضباب خفيف وبيئة متصلة. صوت أصلي: قطرات، حفيف أجنحة، تغريد بعيد ورياح بين الصنوبر. عمودي 9:16، بلا موسيقى أو نص أو حركة مفاجئة أو طيور مكررة.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="قطرات المطر والطيور بعد ليلة ممطرة - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **تاريخ النشر:** 22 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### الحوار والأداء والصوت الأصلي (4)
@@ -432,7 +476,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="prompt-4"></a>
 
-#### #2: شجار دقيق تقوده الوقفات والتعابير المجهرية
+#### #3: شجار دقيق تقوده الوقفات والتعابير المجهرية
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -476,7 +520,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: أرنب يركض عبر نيويورك
+#### #4: أرنب يركض عبر نيويورك
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -530,7 +574,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #4: سكب شاي أخضر طبيعي مع بطاقة ختامية للمنتج
+#### #5: سكب شاي أخضر طبيعي مع بطاقة ختامية للمنتج
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -590,7 +634,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #5: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
+#### #6: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -647,7 +691,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
+#### #7: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -716,7 +760,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
+#### #8: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -871,7 +915,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #8: عملاق نائم في تايمز سكوير
+#### #9: عملاق نائم في تايمز سكوير
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -922,7 +966,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #9: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
+#### #10: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -966,7 +1010,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
+#### #11: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1010,7 +1054,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: كرة ماء بتدفق عكسي
+#### #12: كرة ماء بتدفق عكسي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1054,7 +1098,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: سوق JRPG مضاء بالفوانيس
+#### #13: سوق JRPG مضاء بالفوانيس
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1104,7 +1148,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #13: إعادة تصميم سيبرانية ذرية لمقطع موجود
+#### #14: إعادة تصميم سيبرانية ذرية لمقطع موجود
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1182,10 +1226,10 @@ Change the style to futuristic Cyberpunk
 ## اعتمادات المبدعين
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1205,6 +1249,6 @@ Change the style to futuristic Cyberpunk
 **[أرسل مثالًا موثّقًا](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-22T13:47:24.604Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-22T14:40:27.548Z</sub>
 
 </div>

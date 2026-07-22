@@ -98,9 +98,9 @@ Commencez par une action et une idée de caméra. Ajoutez le timing, l'audio et 
 
 | Champ de la collection | Valeur actuelle |
 |--------|-------|
-| Cas vérifiés | **17** |
+| Cas vérifiés | **18** |
 | Sélection éditoriale | **4** |
-| Généré | **mercredi 22 juillet 2026 à 13:47:24 UTC** |
+| Généré | **mercredi 22 juillet 2026 à 14:40:27 UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Direction de caméra et conception de plans (2)
+### Direction de caméra et conception de plans (3)
 
 Briefs de plans construits autour du cadrage, du mouvement de caméra, de la mise en scène, du rythme, des révélations et des transitions.
 
@@ -419,6 +419,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: Gouttes de pluie et oiseaux après une nuit d’orage
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Pourquoi le workflow est important
+
+Une étude naturelle verticale qui coordonne gouttes sur les aiguilles, mouvement des plumes, faible profondeur de champ et ambiance après la pluie.
+
+##### Prompt localisé
+
+```
+Matin après une nuit de pluie douce. Cadrez des branches de pin mouillées sous une lumière d’aube couverte; les gouttes se rassemblent sur les aiguilles puis tombent une à une. De petits oiseaux colorés se posent et secouent brièvement l’eau de leurs plumes. Lent travelling rapproché, faible profondeur de champ, physique réaliste, tons forestiers froids, brume légère et décor continu. Audio natif: gouttes, froissement d’ailes, oiseaux lointains et vent dans les pins. Vertical 9:16, sans musique, texte, mouvement brusque ni oiseaux dupliqués.
+```
+
+<details>
+<summary>Prompt source original</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### Vidéo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="Gouttes de pluie et oiseaux après une nuit d’orage - Motion preview"></a>
+
+*Cliquez sur l'aperçu pour ouvrir la vidéo* · **[▶ Voir la vidéo →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### Éléments de preuve
+
+- **Créateur:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **Source canonique:** [Source canonique](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **Publié:** 22 juillet 2026
+- **Langue du prompt:** en
+
+**[Créer avec cette direction · ImagineVid](https://imaginevid.io/fr/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### Dialogue, interprétation et audio natif (4)
@@ -432,7 +476,7 @@ Prompts centrés sur l'interprétation, où la parole, le jeu, l'ambiance, la mu
 
 <a id="prompt-4"></a>
 
-#### #2: Dispute subtile portée par les silences et les micro-expressions
+#### #3: Dispute subtile portée par les silences et les micro-expressions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -476,7 +520,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: Lapin lancé dans les rues de New York
+#### #4: Lapin lancé dans les rues de New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -530,7 +574,7 @@ Clips publicitaires qui placent au centre du mouvement un produit, une offre, un
 
 <a id="prompt-12"></a>
 
-#### #4: Versement naturel de thé vert avec carton final du produit
+#### #5: Versement naturel de thé vert avec carton final du produit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -590,7 +634,7 @@ Workflows ancrés dans une image qui animent un arrêt sur image tout en préser
 
 <a id="prompt-6"></a>
 
-#### #5: Baiser fantastique à la lueur des torches avec continuité de film pratique
+#### #6: Baiser fantastique à la lueur des torches avec continuité de film pratique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -647,7 +691,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: Vol de dragon à grande vitesse avec physique du feu, du tissu et de l'audio
+#### #7: Vol de dragon à grande vitesse avec physique du feu, du tissu et de l'audio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -716,7 +760,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: Grille éditoriale verrouillée avec micro-mouvements indépendants
+#### #8: Grille éditoriale verrouillée avec micro-mouvements indépendants
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -879,7 +923,7 @@ Une expérience structurée de stabilité qui fige une mise en page à huit pann
 
 <a id="prompt-15"></a>
 
-#### #8: Géant endormi à Times Square
+#### #9: Géant endormi à Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -930,7 +974,7 @@ Effets et motifs d'animation guidés par des transformations, de la simulation, 
 
 <a id="prompt-9"></a>
 
-#### #9: Caresse de dragons au clair de lune au ralenti maîtrisé
+#### #10: Caresse de dragons au clair de lune au ralenti maîtrisé
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -974,7 +1018,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: Traversée continue en arts martiaux avec physique d'impact prononcée
+#### #11: Traversée continue en arts martiaux avec physique d'impact prononcée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1018,7 +1062,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: Sphère d’eau à écoulement inversé
+#### #12: Sphère d’eau à écoulement inversé
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1062,7 +1106,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: Marché de JRPG éclairé aux lanternes
+#### #13: Marché de JRPG éclairé aux lanternes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1112,7 +1156,7 @@ Workflows appliqués à une vidéo existante pour en restyler, prolonger, ajoute
 
 <a id="prompt-13"></a>
 
-#### #13: Restylage cyberpunk atomique d'un clip existant
+#### #14: Restylage cyberpunk atomique d'un clip existant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1190,10 +1234,10 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 ## Crédits des créateurs
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1213,6 +1257,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-07-22T13:47:24.581Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-07-22T14:40:27.544Z</sub>
 
 </div>

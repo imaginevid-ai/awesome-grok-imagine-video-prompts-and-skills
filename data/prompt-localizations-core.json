@@ -84,6 +84,11 @@
       "title": "Conejo corriendo por Nueva York",
       "description": "Ejemplo oficial mínimo para probar movimiento, continuidad urbana y audio sincronizado a partir de una sola frase.",
       "content": "Un conejo corre a toda velocidad por Nueva York. Síguelo a ras de calle con un avance enérgico, tráfico y peatones coherentes, pisadas realistas y perspectiva urbana continua."
+    },
+    "18": {
+      "title": "Gotas de lluvia y aves tras una noche de tormenta",
+      "description": "Un estudio vertical de naturaleza que coordina gotas sobre pino, movimiento de plumas, foco corto y ambiente sereno tras la lluvia.",
+      "content": "Mañana tras una noche de lluvia suave. Encuadra ramas de pino mojadas bajo una luz gris de amanecer; gotas transparentes se reúnen en las agujas y caen una a una. Pequeñas aves de colores se posan y sacuden brevemente el agua de sus plumas. Travelling cercano y lento, poca profundidad de campo, física realista, color frío de bosque, niebla ligera y geografía continua. Audio nativo: goteo, roce de alas, aves lejanas y viento entre pinos. Vertical 9:16, sin música, texto, movimientos bruscos ni aves duplicadas."
     }
   },
   "de": {
@@ -171,6 +176,11 @@
       "title": "Kaninchen sprintet durch New York",
       "description": "Minimales offizielles Beispiel zum Testen von Bewegung, urbaner Kontinuität und synchronem Ton aus einem Satz.",
       "content": "Ein Kaninchen sprintet durch New York City. Folge ihm auf Straßenhöhe mit energischer Vorwärtsbewegung, stimmigem Verkehr und Fußgängern, realistischen Schritten und durchgehender urbaner Perspektive."
+    },
+    "18": {
+      "title": "Regentropfen und Vögel nach einer Sturmnacht",
+      "description": "Eine ruhige vertikale Naturstudie mit Tropfen auf Kiefernnadeln, Federbewegung, geringer Schärfentiefe und dezenter Regenatmosphäre.",
+      "content": "Morgen nach einer Nacht mit sanftem Regen. Nasse Kiefernzweige im weichen, bedeckten Morgenlicht; klare Tropfen sammeln sich an den Nadeln und fallen einzeln. Kleine farbige Vögel sitzen in den Zweigen und schütteln das Wasser kurz und natürlich aus dem Gefieder. Langsame nahe Kamerafahrt, geringe Schärfentiefe, realistische Feder- und Wasserphysik, kühle Waldtöne, leichter Nebel und kontinuierliche Umgebung. Originalton: Tropfen, Flügelrascheln, ferne Rufe und Wind. Vertikal 9:16, keine Musik, Schrift, abrupten Bewegungen oder doppelten Vögel."
     }
   },
   "fr": {
@@ -258,6 +268,11 @@
       "title": "Lapin lancé dans les rues de New York",
       "description": "Exemple officiel minimal pour tester mouvement, continuité urbaine et son synchronisé à partir d'une seule phrase.",
       "content": "Un lapin traverse New York à toute vitesse. Suivez-le au niveau de la rue avec un mouvement avant énergique, une circulation et des piétons cohérents, des foulées réalistes et une perspective urbaine continue."
+    },
+    "18": {
+      "title": "Gouttes de pluie et oiseaux après une nuit d’orage",
+      "description": "Une étude naturelle verticale qui coordonne gouttes sur les aiguilles, mouvement des plumes, faible profondeur de champ et ambiance après la pluie.",
+      "content": "Matin après une nuit de pluie douce. Cadrez des branches de pin mouillées sous une lumière d’aube couverte; les gouttes se rassemblent sur les aiguilles puis tombent une à une. De petits oiseaux colorés se posent et secouent brièvement l’eau de leurs plumes. Lent travelling rapproché, faible profondeur de champ, physique réaliste, tons forestiers froids, brume légère et décor continu. Audio natif: gouttes, froissement d’ailes, oiseaux lointains et vent dans les pins. Vertical 9:16, sans musique, texte, mouvement brusque ni oiseaux dupliqués."
     }
   },
   "ja": {
@@ -345,6 +360,11 @@
       "title": "ニューヨークを疾走するウサギ",
       "description": "一文から被写体の動き、都市の連続性、同期音声を試す最小構成の公式例。",
       "content": "ウサギがニューヨークの街を全力で走る。地面に近い高さから勢いよく追跡し、交通と歩行者の整合性、自然な足音、途切れない都市遠近を保つ。"
+    },
+    "18": {
+      "title": "夜雨の後、松葉の雫と羽を震わせる鳥",
+      "description": "松葉の雫、羽の動き、浅い被写界深度、控えめな雨上がりの環境音を組み合わせた静かな縦型自然映像。",
+      "content": "穏やかな雨が一晩降った翌朝。柔らかな曇天の朝光の中、濡れた松枝を捉え、透明な雫が松葉の先に集まり一滴ずつ落ちる。色鮮やかな小鳥が枝に止まり、短く自然な動きで羽の水滴を払う。ゆっくり寄る追従撮影、浅い被写界深度、自然な羽と水の物理、冷たい森の色、薄い霧、連続した背景。音は雫、羽音、遠い鳥声、松を抜ける風。縦9:16、音楽・文字・急なカメラ移動・鳥の複製なし。"
     }
   },
   "ko": {
@@ -432,6 +452,11 @@
       "title": "뉴욕을 질주하는 토끼",
       "description": "한 문장으로 피사체 움직임, 도시 연속성, 동기화 오디오를 시험하는 최소 공식 예제입니다.",
       "content": "토끼 한 마리가 뉴욕시를 전력 질주한다. 거리 높이에서 역동적으로 추적하며 차량과 보행자의 일관성, 사실적인 발소리, 끊김 없는 도시 원근을 유지한다."
+    },
+    "18": {
+      "title": "밤비 뒤 소나무 물방울과 깃털을 터는 새",
+      "description": "솔잎 물방울, 깃털 움직임, 얕은 심도와 절제된 비 갠 뒤 환경음을 조율한 조용한 세로형 자연 영상.",
+      "content": "부드러운 비가 밤새 내린 다음 아침. 흐린 새벽빛 속 젖은 소나무 가지를 담고, 솔잎 끝에 맺힌 투명한 물방울이 하나씩 떨어진다. 알록달록한 작은 새들이 가지에 앉아 짧고 자연스럽게 깃털의 빗물을 턴다. 느린 근접 트래킹, 얕은 심도, 사실적인 깃털과 물리, 차가운 숲 색감, 옅은 안개와 연속된 배경. 네이티브 오디오: 물방울, 가벼운 날갯짓, 먼 새소리, 솔숲 바람. 9:16 세로, 음악·문자·급격한 카메라 이동·중복 새 없음."
     }
   },
   "zh": {
@@ -519,6 +544,11 @@
       "title": "穿越纽约街头的疾跑兔子",
       "description": "用一句话测试主体运动、城市连续性和同步音效的官方极简示例。",
       "content": "一只兔子在纽约市全速奔跑。镜头贴近街面快速跟拍，保持车辆和行人逻辑一致、脚步声真实、城市透视连续。"
+    },
+    "18": {
+      "title": "夜雨过后，松针雨珠与振翅小鸟",
+      "description": "一段安静的竖屏自然观察，协调松针水珠、羽毛动作、浅景深与克制的雨后环境声。",
+      "content": "一夜温柔细雨后的清晨。柔和阴天晨光中，湿润松枝上的清澈水珠聚在松针尖端并逐滴落下。几只色彩鲜明的小鸟停在枝间，偶尔自然地抖落羽毛上的雨水。镜头缓慢近距离跟随，浅景深，真实羽毛与水滴物理，冷调森林色彩、薄雾和连续环境。原生音频：独立滴水声、轻微振翅、远处鸟鸣和穿过松林的微风。9:16 竖屏，无音乐、无文字、无突然运镜、无重复小鸟。"
     }
   }
 }

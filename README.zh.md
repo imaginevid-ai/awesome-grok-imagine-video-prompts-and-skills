@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **17** |
+| 已核验案例 | **18** |
 | 编辑精选 | **4** |
-| 生成时间 | **2026年7月22日星期三 UTC 13:47:24** |
+| 生成时间 | **2026年7月22日星期三 UTC 14:40:27** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### 镜头方向与镜头设计 (2)
+### 镜头方向与镜头设计 (3)
 
 围绕构图、镜头路径、调度、节奏、揭示和转场构建的镜头简报。
 
@@ -419,6 +419,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: 夜雨过后，松针雨珠与振翅小鸟
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+一段安静的竖屏自然观察，协调松针水珠、羽毛动作、浅景深与克制的雨后环境声。
+
+##### 本地化提示词
+
+```
+一夜温柔细雨后的清晨。柔和阴天晨光中，湿润松枝上的清澈水珠聚在松针尖端并逐滴落下。几只色彩鲜明的小鸟停在枝间，偶尔自然地抖落羽毛上的雨水。镜头缓慢近距离跟随，浅景深，真实羽毛与水滴物理，冷调森林色彩、薄雾和连续环境。原生音频：独立滴水声、轻微振翅、远处鸟鸣和穿过松林的微风。9:16 竖屏，无音乐、无文字、无突然运镜、无重复小鸟。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="夜雨过后，松针雨珠与振翅小鸟 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### 证据
+
+- **创作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **规范来源:** [规范来源](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **发布时间:** 2026年7月22日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### 对白、表演与原生音频 (4)
@@ -432,7 +476,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="prompt-4"></a>
 
-#### #2: 由停顿与微表情驱动的微妙争吵
+#### #3: 由停顿与微表情驱动的微妙争吵
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -476,7 +520,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: 穿越纽约街头的疾跑兔子
+#### #4: 穿越纽约街头的疾跑兔子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -530,7 +574,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #4: 自然绿茶倾倒与产品片尾卡
+#### #5: 自然绿茶倾倒与产品片尾卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -590,7 +634,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #5: 火炬照明的奇幻亲吻与实拍电影连续性
+#### #6: 火炬照明的奇幻亲吻与实拍电影连续性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -647,7 +691,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: 高速飞龙飞行与火焰、布料及音频物理
+#### #7: 高速飞龙飞行与火焰、布料及音频物理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -716,7 +760,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: 锁定的编辑网格与独立微运动
+#### #8: 锁定的编辑网格与独立微运动
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -855,7 +899,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #8: 沉睡在时代广场的巨人
+#### #9: 沉睡在时代广场的巨人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -906,7 +950,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #9: 月光下飞龙克制的依偎
+#### #10: 月光下飞龙克制的依偎
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -950,7 +994,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: 连续武术穿越与沉重冲击物理
+#### #11: 连续武术穿越与沉重冲击物理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -994,7 +1038,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: 逆流悬浮的水球
+#### #12: 逆流悬浮的水球
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1082,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: 灯笼照亮的 JRPG 市集
+#### #13: 灯笼照亮的 JRPG 市集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1088,7 +1132,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #13: 现有片段的原子级赛博朋克重塑
+#### #14: 现有片段的原子级赛博朋克重塑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1166,10 +1210,10 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (15)</summary>
+<summary>查看并感谢社区作者 (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1189,6 +1233,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-22T13:47:24.651Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-22T14:40:27.558Z</sub>
 
 </div>

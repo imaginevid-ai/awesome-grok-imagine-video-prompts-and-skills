@@ -98,9 +98,9 @@ Beginne mit einer Handlung und einer Kameridee. Füge Timing, Audio und Erhaltun
 
 | Sammlungsfeld | Aktueller Wert |
 |--------|-------|
-| Verifizierte Fälle | **17** |
+| Verifizierte Fälle | **18** |
 | Redaktionelle Auswahl | **4** |
-| Generiert | **Mittwoch, 22. Juli 2026 um 13:47:24 UTC** |
+| Generiert | **Mittwoch, 22. Juli 2026 um 14:40:27 UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Kameraregie und Shot-Design (2)
+### Kameraregie und Shot-Design (3)
 
 Shot-Briefings rund um Bildausschnitt, Kamerapfad, Blocking, Tempo, Enthüllungen und Übergänge.
 
@@ -419,6 +419,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: Regentropfen und Vögel nach einer Sturmnacht
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Warum der Workflow wichtig ist
+
+Eine ruhige vertikale Naturstudie mit Tropfen auf Kiefernnadeln, Federbewegung, geringer Schärfentiefe und dezenter Regenatmosphäre.
+
+##### Lokalisierter Prompt
+
+```
+Morgen nach einer Nacht mit sanftem Regen. Nasse Kiefernzweige im weichen, bedeckten Morgenlicht; klare Tropfen sammeln sich an den Nadeln und fallen einzeln. Kleine farbige Vögel sitzen in den Zweigen und schütteln das Wasser kurz und natürlich aus dem Gefieder. Langsame nahe Kamerafahrt, geringe Schärfentiefe, realistische Feder- und Wasserphysik, kühle Waldtöne, leichter Nebel und kontinuierliche Umgebung. Originalton: Tropfen, Flügelrascheln, ferne Rufe und Wind. Vertikal 9:16, keine Musik, Schrift, abrupten Bewegungen oder doppelten Vögel.
+```
+
+<details>
+<summary>Originaler Quellprompt</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="Regentropfen und Vögel nach einer Sturmnacht - Motion preview"></a>
+
+*Klicke auf die Vorschau, um das Video zu öffnen* · **[▶ Video ansehen →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### Nachweise
+
+- **Erstellt von:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **Kanonische Quelle:** [Kanonische Quelle](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **Veröffentlicht:** 22. Juli 2026
+- **Prompt-Sprache:** en
+
+**[Mit dieser Regie erstellen · ImagineVid](https://imaginevid.io/de/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### Dialog, Performance und nativer Ton (4)
@@ -432,7 +476,7 @@ Performance-orientierte Prompts, in denen Sprache, Schauspiel, Atmosphäre, Musi
 
 <a id="prompt-4"></a>
 
-#### #2: Subtiler Streit, getragen von Pausen und Mikroexpressionen
+#### #3: Subtiler Streit, getragen von Pausen und Mikroexpressionen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -476,7 +520,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: Kaninchen sprintet durch New York
+#### #4: Kaninchen sprintet durch New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -530,7 +574,7 @@ Werbeclips, die ein Produkt, Angebot, Kleidungsstück, Gericht, Gerät oder eine
 
 <a id="prompt-12"></a>
 
-#### #4: Natürlicher Grüntee-Aufguss mit Produkt-Endcard
+#### #5: Natürlicher Grüntee-Aufguss mit Produkt-Endcard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -590,7 +634,7 @@ Bildverankerte Workflows, die ein Standbild animieren und dabei Identität, Komp
 
 <a id="prompt-6"></a>
 
-#### #5: Fackelbeleuchteter Fantasy-Kuss mit Kontinuität eines praktischen Films
+#### #6: Fackelbeleuchteter Fantasy-Kuss mit Kontinuität eines praktischen Films
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -647,7 +691,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: Hochgeschwindigkeitsflug des Drachen mit Feuer, Stoff und Audio-Physik
+#### #7: Hochgeschwindigkeitsflug des Drachen mit Feuer, Stoff und Audio-Physik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -716,7 +760,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: Fixiertes redaktionelles Raster mit unabhängiger Mikrobewegung
+#### #8: Fixiertes redaktionelles Raster mit unabhängiger Mikrobewegung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -879,7 +923,7 @@ Ein strukturiertes Stabilitätsexperiment, das ein Acht-Panel-Layout und die Kam
 
 <a id="prompt-15"></a>
 
-#### #8: Schlafender Riese am Times Square
+#### #9: Schlafender Riese am Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -930,7 +974,7 @@ Effekt- und Animationsmuster, die von Transformationen, Simulation, surrealer Ph
 
 <a id="prompt-9"></a>
 
-#### #9: Drachenzärtlichkeit im Mondlicht in zurückhaltender Zeitlupe
+#### #10: Drachenzärtlichkeit im Mondlicht in zurückhaltender Zeitlupe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -974,7 +1018,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: Durchgehende Kampfkunstbewegung mit schwerer Aufprallphysik
+#### #11: Durchgehende Kampfkunstbewegung mit schwerer Aufprallphysik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1018,7 +1062,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: Wasserkugel mit umgekehrter Strömung
+#### #12: Wasserkugel mit umgekehrter Strömung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1062,7 +1106,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: Laternenbeleuchteter JRPG-Marktplatz
+#### #13: Laternenbeleuchteter JRPG-Marktplatz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1112,7 +1156,7 @@ Workflows mit bestehendem Video, die einen Teil der Szene restylen, verlängern,
 
 <a id="prompt-13"></a>
 
-#### #13: Radikales Cyberpunk-Restyling eines vorhandenen Clips
+#### #14: Radikales Cyberpunk-Restyling eines vorhandenen Clips
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1190,10 +1234,10 @@ Von ImagineVid verfasste redaktionelle Texte und Code stehen unter [CC BY 4.0](h
 ## Credits der Creator
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1213,6 +1257,6 @@ Von ImagineVid verfasste redaktionelle Texte und Code stehen unter [CC BY 4.0](h
 **[Einen verifizierten Fall einreichen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Die Sammlung mit einem Stern markieren](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generiert aus versionierten lokalen Daten am 2026-07-22T13:47:24.574Z</sub>
+<sub>Generiert aus versionierten lokalen Daten am 2026-07-22T14:40:27.541Z</sub>
 
 </div>

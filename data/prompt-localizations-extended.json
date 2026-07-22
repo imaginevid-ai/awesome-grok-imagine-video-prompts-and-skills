@@ -84,6 +84,11 @@
       "title": "Coelho a correr por Nova Iorque",
       "description": "Exemplo oficial mínimo para testar movimento, continuidade urbana e áudio sincronizado a partir de uma frase.",
       "content": "Um coelho corre a toda a velocidade por Nova Iorque. Acompanhe-o ao nível da rua com avanço enérgico, tráfego e peões coerentes, passadas realistas e perspetiva urbana contínua."
+    },
+    "18": {
+      "title": "Gotas e pássaros após uma noite de chuva",
+      "description": "Um estudo vertical de natureza que coordena gotas nos pinheiros, movimento das penas, foco raso e ambiente contido após a chuva.",
+      "content": "Manhã após uma noite de chuva suave. Enquadre galhos de pinheiro molhados sob luz nublada; gotas transparentes se acumulam nas agulhas e caem uma a uma. Pequenos pássaros coloridos pousam e sacodem brevemente a água das penas. Travelling próximo e lento, pouca profundidade de campo, física realista, tons frios de floresta, névoa leve e cenário contínuo. Áudio nativo: pingos, asas, aves distantes e vento nos pinheiros. Vertical 9:16, sem música, texto, movimentos bruscos ou aves duplicadas."
     }
   },
   "it": {
@@ -171,6 +176,11 @@
       "title": "Coniglio in corsa per New York",
       "description": "Esempio ufficiale minimo per verificare movimento, continuità urbana e audio sincronizzato da una sola frase.",
       "content": "Un coniglio corre a tutta velocità per New York. Seguilo a livello stradale con avanzamento energico, traffico e pedoni coerenti, passi realistici e prospettiva urbana continua."
+    },
+    "18": {
+      "title": "Gocce e uccelli dopo una notte di pioggia",
+      "description": "Uno studio naturalistico verticale che coordina gocce sui pini, piume in movimento, profondità ridotta e suoni discreti dopo la pioggia.",
+      "content": "Mattino dopo una notte di pioggia lieve. Inquadra rami di pino bagnati nella luce coperta dell’alba; gocce limpide si raccolgono sugli aghi e cadono una alla volta. Piccoli uccelli colorati si posano e scuotono brevemente l’acqua dalle piume. Lento tracking ravvicinato, profondità ridotta, fisica realistica, toni freddi del bosco, foschia leggera e ambiente continuo. Audio nativo: gocce, fruscio d’ali, richiami lontani e vento tra i pini. Verticale 9:16, senza musica, testo, movimenti improvvisi o uccelli duplicati."
     }
   },
   "ar": {
@@ -258,6 +268,11 @@
       "title": "أرنب يركض عبر نيويورك",
       "description": "مثال رسمي موجز لاختبار الحركة والاستمرارية الحضرية والصوت المتزامن من جملة واحدة.",
       "content": "أرنب يركض بسرعة عبر مدينة نيويورك. تتبعه الكاميرا عند مستوى الشارع بحركة أمامية نشطة، مع مرور ومشاة متسقين وخطوات واقعية ومنظور حضري متصل."
+    },
+    "18": {
+      "title": "قطرات المطر والطيور بعد ليلة ممطرة",
+      "description": "مشهد طبيعي رأسي هادئ ينسق قطرات الصنوبر وحركة الريش وعمق المجال الضحل وأصوات ما بعد المطر.",
+      "content": "صباح بعد ليلة من المطر اللطيف. أغصان صنوبر مبتلة في ضوء فجر غائم؛ تتجمع قطرات صافية على الإبر وتسقط واحدة تلو الأخرى. تحط طيور صغيرة ملونة وتهز الماء عن ريشها بحركات طبيعية قصيرة. تتبع قريب وبطيء، عمق مجال ضحل، فيزياء واقعية، ألوان غابة باردة، ضباب خفيف وبيئة متصلة. صوت أصلي: قطرات، حفيف أجنحة، تغريد بعيد ورياح بين الصنوبر. عمودي 9:16، بلا موسيقى أو نص أو حركة مفاجئة أو طيور مكررة."
     }
   },
   "nl": {
@@ -345,6 +360,11 @@
       "title": "Konijn sprint door New York",
       "description": "Minimaal officieel voorbeeld om beweging, stedelijke continuïteit en gesynchroniseerd geluid vanuit één zin te testen.",
       "content": "Een konijn sprint door New York City. Volg het op straathoogte met energieke voorwaartse beweging, logisch verkeer en voetgangers, realistische voetstappen en een doorlopend stedelijk perspectief."
+    },
+    "18": {
+      "title": "Regendruppels en vogels na een natte nacht",
+      "description": "Een rustige verticale natuurstudie met druppels op dennennaalden, verenbeweging, geringe scherptediepte en ingetogen geluid na de regen.",
+      "content": "Ochtend na een nacht zachte regen. Natte dennentakken in diffuus ochtendlicht; heldere druppels verzamelen zich aan de naalden en vallen één voor één. Kleine kleurrijke vogels zitten tussen de takken en schudden kort en natuurlijk het water uit hun veren. Langzame nabije tracking, geringe scherptediepte, realistische fysica, koele bostinten, lichte mist en een doorlopende omgeving. Origineel geluid: druppels, vleugelgeritsel, verre vogelzang en wind. Verticaal 9:16, zonder muziek, tekst, abrupte bewegingen of dubbele vogels."
     }
   },
   "ru": {
@@ -432,6 +452,11 @@
       "title": "Кролик мчится по Нью-Йорку",
       "description": "Минимальный официальный пример для проверки движения, городской непрерывности и синхронного звука по одной фразе.",
       "content": "Кролик мчится по Нью-Йорку. Камера энергично следует за ним на уровне улицы, сохраняя логичное движение транспорта и пешеходов, реалистичный топот и непрерывную городскую перспективу."
+    },
+    "18": {
+      "title": "Капли и птицы после ночного дождя",
+      "description": "Спокойный вертикальный этюд с каплями на хвое, движением перьев, малой глубиной резкости и сдержанной послеливневой атмосферой.",
+      "content": "Утро после ночного мягкого дождя. Мокрые сосновые ветви в рассеянном пасмурном свете; прозрачные капли собираются на иглах и падают по одной. Небольшие яркие птицы сидят на ветках и короткими естественными движениями стряхивают воду с перьев. Медленный близкий трекинг, малая глубина резкости, реалистичная физика, холодные лесные тона, лёгкий туман и непрерывная среда. Звук: капли, шелест крыльев, далёкое пение и ветер. Вертикаль 9:16, без музыки, текста, резких движений и дубликатов птиц."
     }
   },
   "tr": {
@@ -519,6 +544,11 @@
       "title": "New York'ta koşan tavşan",
       "description": "Tek cümleden hareketi, kentsel sürekliliği ve senkron sesi sınayan kısa resmi örnek.",
       "content": "Bir tavşan New York sokaklarında hızla koşuyor. Kamerayı sokak seviyesinde enerjik biçimde takip ettir; trafik ve yayalar tutarlı, ayak sesleri gerçekçi, şehir perspektifi kesintisiz olsun."
+    },
+    "18": {
+      "title": "Gece yağmurundan sonra damlalar ve kuşlar",
+      "description": "Çam iğnelerindeki damlaları, tüy hareketini, sığ alan derinliğini ve yağmur sonrası sakin ortam sesini birleştiren dikey doğa çalışması.",
+      "content": "Gece boyu süren hafif yağmurdan sonraki sabah. Bulutlu şafak ışığında ıslak çam dalları; berrak damlalar iğnelerde toplanıp tek tek düşer. Renkli küçük kuşlar dallara konar ve tüylerindeki suyu kısa, doğal hareketlerle silkeler. Yavaş yakın takip, sığ alan derinliği, gerçekçi fizik, serin orman renkleri, hafif sis ve kesintisiz çevre. Doğal ses: damlalar, kanat hışırtısı, uzaktaki kuşlar ve çam rüzgârı. Dikey 9:16; müzik, yazı, ani kamera hareketi ve kopya kuş yok."
     }
   },
   "pl": {
@@ -606,6 +636,11 @@
       "title": "Królik pędzący przez Nowy Jork",
       "description": "Minimalny oficjalny przykład do testowania ruchu, ciągłości miasta i zsynchronizowanego dźwięku na podstawie jednego zdania.",
       "content": "Królik pędzi ulicami Nowego Jorku. Kamera śledzi go energicznie z poziomu ulicy, zachowując spójny ruch pojazdów i pieszych, realistyczne odgłosy łap oraz ciągłą perspektywę miejską."
+    },
+    "18": {
+      "title": "Krople i ptaki po nocnym deszczu",
+      "description": "Spokojne pionowe studium natury łączące krople na igłach sosny, ruch piór, małą głębię ostrości i stonowane odgłosy po deszczu.",
+      "content": "Poranek po nocy łagodnego deszczu. Mokre gałęzie sosny w miękkim, pochmurnym świetle; przejrzyste krople zbierają się na igłach i spadają pojedynczo. Małe kolorowe ptaki siadają na gałęziach i krótkimi naturalnymi ruchami strząsają wodę z piór. Powolny bliski tracking, mała głębia ostrości, realistyczna fizyka, chłodne leśne barwy, lekka mgła i ciągłe otoczenie. Dźwięk: krople, szelest skrzydeł, odległe ptaki i wiatr. Pion 9:16, bez muzyki, tekstu, nagłych ruchów i duplikatów ptaków."
     }
   }
 }

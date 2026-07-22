@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **17** |
+| Проверенные примеры | **18** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **среда, 22 июля 2026 г. в 13:47:24 UTC** |
+| Сгенерировано | **среда, 22 июля 2026 г. в 14:40:27 UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Режиссура камеры и дизайн кадра (2)
+### Режиссура камеры и дизайн кадра (3)
 
 Брифы кадров с композицией, маршрутом камеры, мизансценой, темпом, раскрытиями и переходами.
 
@@ -419,6 +419,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: Капли и птицы после ночного дождя
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Спокойный вертикальный этюд с каплями на хвое, движением перьев, малой глубиной резкости и сдержанной послеливневой атмосферой.
+
+##### Локализованный промпт
+
+```
+Утро после ночного мягкого дождя. Мокрые сосновые ветви в рассеянном пасмурном свете; прозрачные капли собираются на иглах и падают по одной. Небольшие яркие птицы сидят на ветках и короткими естественными движениями стряхивают воду с перьев. Медленный близкий трекинг, малая глубина резкости, реалистичная физика, холодные лесные тона, лёгкий туман и непрерывная среда. Звук: капли, шелест крыльев, далёкое пение и ветер. Вертикаль 9:16, без музыки, текста, резких движений и дубликатов птиц.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="Капли и птицы после ночного дождя - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **Канонический источник:** [Канонический источник](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **Опубликовано:** 22 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### Диалог, исполнение и нативное аудио (4)
@@ -432,7 +476,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="prompt-4"></a>
 
-#### #2: Сдержанная ссора через паузы и микровыражения
+#### #3: Сдержанная ссора через паузы и микровыражения
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -476,7 +520,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: Кролик мчится по Нью-Йорку
+#### #4: Кролик мчится по Нью-Йорку
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -530,7 +574,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #4: Натуральная подача зелёного чая с финальной карточкой продукта
+#### #5: Натуральная подача зелёного чая с финальной карточкой продукта
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -590,7 +634,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #5: Поцелуй в свете факелов с непрерывностью практического кино
+#### #6: Поцелуй в свете факелов с непрерывностью практического кино
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -647,7 +691,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: Скоростной полёт дракона с огнём, тканью и аудиофизикой
+#### #7: Скоростной полёт дракона с огнём, тканью и аудиофизикой
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -716,7 +760,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: Зафиксированная редакционная сетка с независимым микродвижением
+#### #8: Зафиксированная редакционная сетка с независимым микродвижением
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -855,7 +899,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #8: Спящий гигант на Таймс-сквер
+#### #9: Спящий гигант на Таймс-сквер
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -906,7 +950,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #9: Лунный драконий нос в сдержанном замедлении
+#### #10: Лунный драконий нос в сдержанном замедлении
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -950,7 +994,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
+#### #11: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -994,7 +1038,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: Водяная сфера с обратным потоком
+#### #12: Водяная сфера с обратным потоком
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1082,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: Рынок JRPG в свете фонарей
+#### #13: Рынок JRPG в свете фонарей
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1088,7 +1132,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #13: Атомный киберпанк-рестайлинг существующего клипа
+#### #14: Атомный киберпанк-рестайлинг существующего клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1166,10 +1210,10 @@ Change the style to futuristic Cyberpunk
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1189,6 +1233,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-22T13:47:24.672Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-22T14:40:27.564Z</sub>
 
 </div>

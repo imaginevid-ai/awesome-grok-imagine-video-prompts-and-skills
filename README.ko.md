@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **17** |
+| 검증된 사례 | **18** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 7월 22일 수요일 오후 1시 47분 24초 UTC** |
+| 생성 시각 | **2026년 7월 22일 수요일 PM 2시 40분 27초 UTC** |
 
 </div>
 
@@ -366,7 +366,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### 카메라 연출 및 샷 디자인 (2)
+### 카메라 연출 및 샷 디자인 (3)
 
 프레이밍, 카메라 경로, 블로킹, 페이싱, 공개 순서, 전환을 중심으로 구성한 샷 브리프입니다.
 
@@ -418,6 +418,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: 밤비 뒤 소나무 물방울과 깃털을 터는 새
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+솔잎 물방울, 깃털 움직임, 얕은 심도와 절제된 비 갠 뒤 환경음을 조율한 조용한 세로형 자연 영상.
+
+##### 현지화 프롬프트
+
+```
+부드러운 비가 밤새 내린 다음 아침. 흐린 새벽빛 속 젖은 소나무 가지를 담고, 솔잎 끝에 맺힌 투명한 물방울이 하나씩 떨어진다. 알록달록한 작은 새들이 가지에 앉아 짧고 자연스럽게 깃털의 빗물을 턴다. 느린 근접 트래킹, 얕은 심도, 사실적인 깃털과 물리, 차가운 숲 색감, 옅은 안개와 연속된 배경. 네이티브 오디오: 물방울, 가벼운 날갯짓, 먼 새소리, 솔숲 바람. 9:16 세로, 음악·문자·급격한 카메라 이동·중복 새 없음.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="밤비 뒤 소나무 물방울과 깃털을 터는 새 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **정식 출처:** [정식 출처](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **게시일:** 2026년 7월 22일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### 대사, 연기 및 네이티브 오디오 (4)
@@ -431,7 +475,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="prompt-4"></a>
 
-#### #2: 멈춤과 미세 표정으로 이끄는 미묘한 말다툼
+#### #3: 멈춤과 미세 표정으로 이끄는 미묘한 말다툼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -475,7 +519,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: 뉴욕을 질주하는 토끼
+#### #4: 뉴욕을 질주하는 토끼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -529,7 +573,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #4: 자연스러운 녹차 따르기와 제품 엔드 카드
+#### #5: 자연스러운 녹차 따르기와 제품 엔드 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -589,7 +633,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #5: 실사 영화 연속성을 살린 횃불빛 판타지 키스
+#### #6: 실사 영화 연속성을 살린 횃불빛 판타지 키스
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -646,7 +690,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
+#### #7: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -715,7 +759,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
+#### #8: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -878,7 +922,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #8: 타임스스퀘어에 잠든 거인
+#### #9: 타임스스퀘어에 잠든 거인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -929,7 +973,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #9: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
+#### #10: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -973,7 +1017,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: 강한 충격 물리학을 적용한 연속 무술 이동
+#### #11: 강한 충격 물리학을 적용한 연속 무술 이동
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1017,7 +1061,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: 역류해 떠오르는 물 구체
+#### #12: 역류해 떠오르는 물 구체
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1061,7 +1105,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: 등불이 빛나는 JRPG 시장
+#### #13: 등불이 빛나는 JRPG 시장
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1111,7 +1155,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #13: 기존 클립의 원자적 사이버펑크 스타일 변경
+#### #14: 기존 클립의 원자적 사이버펑크 스타일 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1189,10 +1233,10 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1212,6 +1256,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-22T13:47:24.633Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-22T14:40:27.554Z</sub>
 
 </div>

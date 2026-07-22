@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **17** |
+| 検証済みケース | **18** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年7月22日水曜日 13:47:24 UTC** |
+| 生成日時 | **2026年7月22日水曜日 14:40:27 UTC** |
 
 </div>
 
@@ -363,7 +363,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### カメラ演出とショット設計 (2)
+### カメラ演出とショット設計 (3)
 
 フレーミング、カメラパス、ブロッキング、テンポ、見せ場、トランジションを軸にしたショットブリーフ。
 
@@ -415,6 +415,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: 夜雨の後、松葉の雫と羽を震わせる鳥
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+松葉の雫、羽の動き、浅い被写界深度、控えめな雨上がりの環境音を組み合わせた静かな縦型自然映像。
+
+##### ローカライズ済みプロンプト
+
+```
+穏やかな雨が一晩降った翌朝。柔らかな曇天の朝光の中、濡れた松枝を捉え、透明な雫が松葉の先に集まり一滴ずつ落ちる。色鮮やかな小鳥が枝に止まり、短く自然な動きで羽の水滴を払う。ゆっくり寄る追従撮影、浅い被写界深度、自然な羽と水の物理、冷たい森の色、薄い霧、連続した背景。音は雫、羽音、遠い鳥声、松を抜ける風。縦9:16、音楽・文字・急なカメラ移動・鳥の複製なし。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="夜雨の後、松葉の雫と羽を震わせる鳥 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **正規の出典:** [正規の出典](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **公開日:** 2026年7月22日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### 台詞、演技、ネイティブ音声 (4)
@@ -428,7 +472,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="prompt-4"></a>
 
-#### #2: 間と微表情で進む微妙な口論
+#### #3: 間と微表情で進む微妙な口論
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -472,7 +516,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: ニューヨークを疾走するウサギ
+#### #4: ニューヨークを疾走するウサギ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -526,7 +570,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #4: 自然な緑茶の注ぎと商品エンドカード
+#### #5: 自然な緑茶の注ぎと商品エンドカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -586,7 +630,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #5: 松明に照らされたファンタジーのキスと実写フィルムの連続性
+#### #6: 松明に照らされたファンタジーのキスと実写フィルムの連続性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -643,7 +687,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: 火、布、音声の物理を伴う高速ドラゴン飛行
+#### #7: 火、布、音声の物理を伴う高速ドラゴン飛行
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -712,7 +756,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: 固定されたエディトリアルグリッドと独立した微細運動
+#### #8: 固定されたエディトリアルグリッドと独立した微細運動
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -851,7 +895,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #8: タイムズスクエアに眠る巨人
+#### #9: タイムズスクエアに眠る巨人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -902,7 +946,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #9: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
+#### #10: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -946,7 +990,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: 重い衝撃物理を伴う連続武術トラバーサル
+#### #11: 重い衝撃物理を伴う連続武術トラバーサル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -990,7 +1034,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: 逆流して浮かぶ水の球体
+#### #12: 逆流して浮かぶ水の球体
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1034,7 +1078,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: ランタンに照らされたJRPG市場
+#### #13: ランタンに照らされたJRPG市場
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1084,7 +1128,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #13: 既存クリップを原子力級サイバーパンクにリスタイル
+#### #14: 既存クリップを原子力級サイバーパンクにリスタイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1162,10 +1206,10 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1185,6 +1229,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-22T13:47:24.611Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-22T14:40:27.551Z</sub>
 
 </div>

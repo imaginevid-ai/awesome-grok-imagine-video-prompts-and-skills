@@ -863,5 +863,58 @@
         }
       ]
     }
+  },
+  {
+    "id": 18,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Rain beads and birds after a night storm"
+    },
+    "description": {
+      "en": "A quiet vertical nature study that coordinates pine-needle droplets, feather motion, shallow focus, and restrained post-rain ambience."
+    },
+    "content": {
+      "en": "Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds."
+    },
+    "sourceLink": "https://x.com/HawkinsonLindy/status/2079925422238937376",
+    "sourcePublishedAt": "2026-07-22T13:43:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg"
+    },
+    "author": {
+      "name": "Lindy Hawkinson",
+      "link": "https://x.com/HawkinsonLindy"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2079925422238937376",
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-22",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_editorially_expanded",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14,
+      "bookmarkCount": 0
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Camera Direction & Shot Design",
+          "slug": "camera-direction-shot-design"
+        }
+      ]
+    },
+    "sort": 18
   }
 ]

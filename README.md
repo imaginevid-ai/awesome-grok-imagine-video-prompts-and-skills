@@ -98,9 +98,9 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **17** |
+| Verified Cases | **18** |
 | Editorial pick | **4** |
-| Generated | **Wednesday, July 22, 2026 at 1:47:24 PM UTC** |
+| Generated | **Wednesday, July 22, 2026 at 2:40:27 PM UTC** |
 
 </div>
 
@@ -298,7 +298,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Camera Direction & Shot Design (2)
+### Camera Direction & Shot Design (3)
 
 Shot briefs built around framing, camera path, blocking, pacing, reveals, and transitions.
 
@@ -341,6 +341,41 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: Rain beads and birds after a night storm
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A quiet vertical nature study that coordinates pine-needle droplets, feather motion, shallow focus, and restrained post-rain ambience.
+
+##### Source prompt
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="Rain beads and birds after a night storm - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### Evidence
+
+- **Creator:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **Canonical source:** [Canonical source](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **Published:** July 22, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### Dialogue, Performance & Native Audio (4)
@@ -354,7 +389,7 @@ Performance-led prompts where speech, acting, ambience, music, or synchronized s
 
 <a id="prompt-4"></a>
 
-#### #2: Subtle argument driven by pauses and micro-expressions
+#### #3: Subtle argument driven by pauses and micro-expressions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -389,7 +424,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: Rabbit sprinting through New York
+#### #4: Rabbit sprinting through New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -434,7 +469,7 @@ Commercial clips that keep a product, offer, garment, dish, device, or brand mom
 
 <a id="prompt-12"></a>
 
-#### #4: Natural green-tea pour with product end card
+#### #5: Natural green-tea pour with product end card
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -480,7 +515,7 @@ Image-anchored workflows that animate a still while preserving identity, composi
 
 <a id="prompt-6"></a>
 
-#### #5: Torchlit fantasy kiss with practical-film continuity
+#### #6: Torchlit fantasy kiss with practical-film continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -522,7 +557,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: High-speed dragon flight with fire, cloth, and audio physics
+#### #7: High-speed dragon flight with fire, cloth, and audio physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -570,7 +605,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: Locked editorial grid with independent micro-motion
+#### #8: Locked editorial grid with independent micro-motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -665,7 +700,7 @@ A structured stability experiment that freezes an eight-panel layout and camera 
 
 <a id="prompt-15"></a>
 
-#### #8: Sleeping giant in Times Square
+#### #9: Sleeping giant in Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -707,7 +742,7 @@ Effects and animation patterns driven by transformations, simulation, surreal ph
 
 <a id="prompt-9"></a>
 
-#### #9: Moonlit dragon nuzzle in restrained slow motion
+#### #10: Moonlit dragon nuzzle in restrained slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -742,7 +777,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: Continuous martial-arts traversal with heavy impact physics
+#### #11: Continuous martial-arts traversal with heavy impact physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -777,7 +812,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: Reverse-flow water sphere
+#### #12: Reverse-flow water sphere
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -812,7 +847,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: Lantern-lit JRPG marketplace gameplay
+#### #13: Lantern-lit JRPG marketplace gameplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -853,7 +888,7 @@ Existing-video workflows that restyle, extend, add, remove, replace, or redirect
 
 <a id="prompt-13"></a>
 
-#### #13: Atomic cyberpunk restyle of an existing clip
+#### #14: Atomic cyberpunk restyle of an existing clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -922,10 +957,10 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -945,6 +980,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-22T13:47:24.533Z</sub>
+<sub>Generated from versioned local data on 2026-07-22T14:40:27.527Z</sub>
 
 </div>

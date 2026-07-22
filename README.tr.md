@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **17** |
+| Doğrulanmış örnekler | **18** |
 | Editör seçimi | **4** |
-| Oluşturulma | **22 Temmuz 2026 Çarşamba 13:47:24 UTC** |
+| Oluşturulma | **22 Temmuz 2026 Çarşamba 14:40:27 UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Kamera yönetimi ve çekim tasarımı (2)
+### Kamera yönetimi ve çekim tasarımı (3)
 
 Kadraj, kamera yolu, blocking, tempo, açığa çıkarmalar ve geçişler etrafında kurulan çekim brifleri.
 
@@ -419,6 +419,50 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ---
 
+<a id="prompt-18"></a>
+
+#### #2: Gece yağmurundan sonra damlalar ve kuşlar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+Çam iğnelerindeki damlaları, tüy hareketini, sığ alan derinliğini ve yağmur sonrası sakin ortam sesini birleştiren dikey doğa çalışması.
+
+##### Yerelleştirilmiş prompt
+
+```
+Gece boyu süren hafif yağmurdan sonraki sabah. Bulutlu şafak ışığında ıslak çam dalları; berrak damlalar iğnelerde toplanıp tek tek düşer. Renkli küçük kuşlar dallara konar ve tüylerindeki suyu kısa, doğal hareketlerle silkeler. Yavaş yakın takip, sığ alan derinliği, gerçekçi fizik, serin orman renkleri, hafif sis ve kesintisiz çevre. Doğal ses: damlalar, kanat hışırtısı, uzaktaki kuşlar ve çam rüzgârı. Dikey 9:16; müzik, yazı, ani kamera hareketi ve kopya kuş yok.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Morning after a full night of gentle rain. Frame wet pine branches in soft overcast dawn light as clear droplets gather on the needles and fall one by one. Colorful small birds perch among the branches, then shake rain from their feathers in brief natural bursts. Use a slow close tracking move, shallow depth of field, realistic feather and water physics, cool forest color, faint mist, and continuous background geography. Native audio: isolated drips, soft wing rustle, distant birdsong, and light wind through pine. Vertical 9:16, no music, no text, no sudden camera moves, no duplicate birds.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2079925362847526912/img/LVL54rSZBBFdjw2e.jpg" height="420" alt="Gece yağmurundan sonra damlalar ve kuşlar - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2079925362847526912/vid/avc1/720x1280/AdhMGM3sP3wytE_T.mp4?tag=25)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Lindy Hawkinson](https://x.com/HawkinsonLindy)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/HawkinsonLindy/status/2079925422238937376)
+- **Yayımlandı:** 22 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
 ### Diyalog, performans ve yerel ses (4)
@@ -432,7 +476,7 @@ Konuşma, oyunculuk, ambiyans, müzik veya senkron sesin sahneyi taşıdığı p
 
 <a id="prompt-4"></a>
 
-#### #2: Duraklamalar ve mikro ifadelerle taşınan ince tartışma
+#### #3: Duraklamalar ve mikro ifadelerle taşınan ince tartışma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -476,7 +520,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #3: New York'ta koşan tavşan
+#### #4: New York'ta koşan tavşan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -530,7 +574,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #4: Ürün son kartıyla doğal yeşil çay dökümü
+#### #5: Ürün son kartıyla doğal yeşil çay dökümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -590,7 +634,7 @@ Bir sabit görseli canlandırırken kimliği, kompozisyonu, ürün geometrisini 
 
 <a id="prompt-6"></a>
 
-#### #5: Pratik film sürekliliğiyle meşale ışığında fantastik öpücük
+#### #6: Pratik film sürekliliğiyle meşale ışığında fantastik öpücük
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -647,7 +691,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #6: Ateş, kumaş ve ses fiziğiyle yüksek hızlı ejderha uçuşu
+#### #7: Ateş, kumaş ve ses fiziğiyle yüksek hızlı ejderha uçuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -716,7 +760,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #7: Bağımsız mikro hareketli sabit editoryal grid
+#### #8: Bağımsız mikro hareketli sabit editoryal grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -838,7 +882,7 @@ Sekiz panelli yerleşimi ve kamerayı dondururken kontrollü nefes, göz kırpma
 
 <a id="prompt-15"></a>
 
-#### #8: Times Square’de uyuyan dev
+#### #9: Times Square’de uyuyan dev
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -889,7 +933,7 @@ Dönüşüm, simülasyon, sürreal fizik, grafik hareket veya ayırt edici medya
 
 <a id="prompt-9"></a>
 
-#### #9: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
+#### #10: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -933,7 +977,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #10: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
+#### #11: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -977,7 +1021,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #11: Ters akışlı su küresi
+#### #12: Ters akışlı su küresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1021,7 +1065,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #12: Fener ışıklı JRPG pazarı
+#### #13: Fener ışıklı JRPG pazarı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1071,7 +1115,7 @@ Sürekliliği koruyarak mevcut videoyu yeniden stillendiren, uzatan, ekleyen, ka
 
 <a id="prompt-13"></a>
 
-#### #13: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
+#### #14: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1149,10 +1193,10 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (15)</summary>
+<summary>Community creators we thank (16)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1172,6 +1216,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-22T13:47:24.695Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-22T14:40:27.568Z</sub>
 
 </div>
